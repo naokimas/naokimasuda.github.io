@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>研究紹介 | 増田直紀</title>
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="js/footerFixed.js"></script>
+<script type="text/javascript" src="js/jquery.exflexfixed.js"></script>
+<script>
+	jQuery(function($){
+		$('div.sub_menu').exFlexFixed({
+			container : '#wrap'
+		});
+	});
+</script>
+</head>
+
+<body onLoad="MM_preloadImages('image/eng_o.gif')">
+<div id="container">
+  <div id="header">
+    <div class="left">
+      <h1><a href="index_j.html"><span class="text">ネットワーク科学 増田直紀</span></a></h1>
+          </div>
+  </div>
+  <div id="wrap">
+      <h2>研究紹介</h2>
+      <div id="contents">
+
+<h3><a name="#Gillespie">ギレスピー・アルゴリズム</a></h3>
+<p>キーワード：<strong>ネットワーク</strong>，時系列，点過程，ラプラス変換
+<p>我々が成すソーシャル・ネットワークや他のネットワークの多くは、刻一刻と変化している（テンポラル・ネットワーク）。そして、多くのテンポラル・ネットワークのデータに共通する性質の1つに、バースト性がある (参考：<a href="https://www.amazon.co.jp/%E3%83%90%E3%83%BC%E3%82%B9%E3%83%88-%E4%BA%BA%E9%96%93%E8%A1%8C%E5%8B%95%E3%82%92%E6%94%AF%E9%85%8D%E3%81%99%E3%82%8B%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3-%E3%82%A2%E3%83%AB%E3%83%90%E3%83%BC%E3%83%88-%E3%83%A9%E3%82%BA%E3%83%AD%E3%83%BB%E3%83%90%E3%83%A9%E3%83%90%E3%82%B7/dp/414081554X/ref=sr_1_2?s=books&ie=UTF8&qid=1500730388&sr=1-2&keywords=%E3%83%90%E3%83%A9%E3%83%90%E3%82%B7">バラバシの本「バースト！」</a>）。あなたが誰かと会って会話をするとしよう。そのような会話イベントがいつ起こるかを記録してみると、会話は全くランダムなタイミングで起こるのではない。会話イベントの塊が短い間に起こり（バースト）、一方、会話イベントが全く起こらない長い時間間隔がある場合が多い（下図）。専門的に言うと、イベントの時間間隔は「ベキ則」的に分布している。
+
+    <table width="100%" border="0" cellpadding="3">
+    <tr> 
+        <td style="text-align:center;"><IMG src="image/event_seq_compare_forweb.png" width="350"></td>
+    </tr>
+    <tr>
+	    <td colspan="2">図：バースト的なイベント時系列。縦棒は例えば2人の間の会話イベントが起こった時刻を表す。</td>
+    </tr>
+    </table>
+
+<p>一方、そのようなことが知られる以前には、会話イベントは、チケットの販売窓口に人がパラパラと全くランダムに見えるかのように到着するように、バースト的でない「慣らされた」起こり方（専門的に言うと、「指数分布」的）をしていると仮定されてきた。よく分かっていなかったための単純化の仮定だったと言えよう。
+<p>ギレスピー・アルゴリズムは、会話イベントや化学反応イベントが起こっている相互作用系（人間の集団、分子の集団など）を効率よく、かつ誤差なく数値計算するための数理的な技術で、1970年代に開発された（日本語でも検索すると色々見つかる ）。
+<p>ギレスピー・アルゴリズムは、基本的には、バースト的ではないイベントを数値計算するための道具だ。一方、実際のデータ、特に人間の社会行動のデータは、往々にしてバースト的である。本研究では、ギレスピー・アルゴリズムをバースト的なイベント時系列の場合にも適用できるような新しいアルゴリズムを作った [<a href="https://doi.org/10.1137/16M1055876" target="_blank">Masuda &amp Rocha. SIAM Rev (2018)</a>]。ラプラス変換と完全単調関数という数学的道具立てを利用した。
+
+      </div>
+      <br>
+    </div>
+  </div>
+</div>
+<div id="footer">copyright(C) Naoki Masuda, All rights reserved.</div>
+</body>
+</html>

@@ -1,0 +1,55 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Research Projects | Naoki Masuda</title>
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="js/footerFixed.js"></script>
+<script type="text/javascript" src="js/jquery.exflexfixed.js"></script>
+<script>
+	jQuery(function($){
+		$('div.sub_menu').exFlexFixed({
+			container : '#wrap'
+		});
+	});
+</script>
+</head>
+
+<body onLoad="MM_preloadImages('image/eng_o.gif')">
+<div id="container">
+  <div id="header">
+    <div class="left">
+      <h1 class="en"><a href="index.html"><span class="text">Network Science,Naoki Masuda</span></a></h1>
+          </div>
+  </div>
+  <div id="wrap">
+    <h2>Research projects</h2>
+      <div id="contents">
+
+<h3>Dynamics of system states in temporal networks</h3>
+<p>Keywords: <strong>network</strong>, time series, algorithm, clustering
+
+<p>Networks often vary over time. Data of such temporal (i.e., time-varying) networks abound, and a key question is how to understand empirical temporal networks that are both complex in structure and time-dependent.
+To address this broad question, we developed a method to coarse grain temporal network data by identifying a relatively small number of discrete states of the network and view the given temporal network as a state-transition dynamics among the inferred states  [<a href="https://doi.org/10.1038/s41598-018-37534-2" target="_blank">Masuda &amp Holme. Sci Rep (2019)</a>]. For example, the figure to the left below shows state-transition dynamics of a temporal network composed of four persons. Each shaded box corresponds to a network of the four persons, which defines a network state. Therefore, there are four states in this example. The dynamics of the network are equivalent to transitions from one state (i.e., one four-person network) to another. The thickness of the arrow between shaded boxes represents the frequency of the associated state transition.
+
+    <table width="100%" border="0" cellpadding="3">
+    <tr> 
+        <td style="text-align:center;"><IMG src="image/system-state-dyn-forweb.png" width="250"></td>
+        <td style="text-align:center;"><IMG src="image/primaryschool-UD-forweb.png" width="300"></td>
+    </tr>
+    <tr>
+	    <td colspan="2">Figure: Left: Dynamics of the system state of a temporal network composed of four nodes. Right: State dynamics of a temporal network in a primary school in Europe. Discrete times 1 to 25 correspond to the first day, and 26 to 50 correspond to the second day. In each day, a clear lunch-time state (state 2 in the bottom panel) is detected. The data originate from the <a href="http://www.sociopatterns.org/" target="_blank">SocioPatterns project</a>, and the details including the precise credit to the data source are found in <a href="https://doi.org/10.1038/s41598-018-37534-2" target="_blank">our paper</a>.</td>
+    </tr>
+    </table>
+
+<p>Our method, which is computational rather than mathematical, combines a graph distance measure and hierarchical clustering. It is capable of inferring network states such as distinct activities in a school, i.e., the class-time state and the lunch-time state (the right panel of the figure). Note that these states cannot be found if we only look at simple measures such as the gross frequency of inter-personal contacts (middle panel in the right figure). We expect that the method is equally useful in other settings such as temporally varying protein interactions, ecological interspecific interactions, functional connectivity in the brain, and different operational states of an organization. We want to look for such applications as well as further develop this line of methods.
+
+      </div>
+      <br>
+    </div>
+  </div>
+</div>
+<div id="footer">copyright(C) Naoki Masuda, All rights reserved.</div>
+</body>
+</html>

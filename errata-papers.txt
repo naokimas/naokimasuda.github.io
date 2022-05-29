@@ -1,0 +1,29 @@
+Note: The following errata/typos are privately provided and not listed on the journal's website.
+
+--- Masuda, Kojaku, Sano. Physical Review E, 98, 012312 (2018) ---
+
+p.2, left column, line 13 and p.14, right column, heading of Appendix B: "Qu" should be replaced by "Qi".
+
+--- Masuda, Sakaki, Ezaki, Watanabe. Frontiers in Neuroinformatics, 12, 7 (2018) ---
+
+p.5, right column, second line in section 2.6: "Qu" should be replaced by "Qi".
+
+--- Tamura and Masuda, Royal Society Open Science, 4, 170391 (2017) ---
+
+The publication year of Ref. 22 (by Akwawua and Pooler) should be 2000, not 2016.
+
+--- Speidel et al., New Journal of Physics, 18, 073013 (2016) ---
+
+In Figures 5 and 6, ylabel "\Delta \beta" should be replaced by "\Deta \beta_{\rm c}".
+
+--- Masuda et al., IFAC-PapersOnLine, 48-18, 187-192 (2015) ---
+
+In Eq. (21) on p.189, the comma inside the matrix should be removed.
+
+--- Watanabe et al., Nature Communications, 4, 1370 (2013) ---
+
+(1) "Inverse Gaussian model" should be replaced by "Gaussian model" throughout the text.
+
+(2) "J_{i j sigma_i sigma_j}" on the right-hand side of equation (1) (right column on p.8) should be replaced by "J_{i j} sigma_i sigma_j", where the underscore denotes the subscript.
+
+(3) In Supplementary Fig. 4 in Supplementary Information, the labels on the horizontal axis should be swapped. In other words, the pair of bars (one white bar and one gray bar) on the right corresponds to Binary MEM (not Trinary MEM). The two pairs of bars on the left correspond to Trinary MEM (not Binary MEM).

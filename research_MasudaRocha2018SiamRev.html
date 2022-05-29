@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Research Projects | Naoki Masuda</title>
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="js/footerFixed.js"></script>
+<script type="text/javascript" src="js/jquery.exflexfixed.js"></script>
+<script>
+	jQuery(function($){
+		$('div.sub_menu').exFlexFixed({
+			container : '#wrap'
+		});
+	});
+</script>
+</head>
+
+<body onLoad="MM_preloadImages('image/eng_o.gif')">
+<div id="container">
+  <div id="header">
+    <div class="left">
+      <h1 class="en"><a href="index.html"><span class="text">Network Science,Naoki Masuda</span></a></h1>
+          </div>
+  </div>
+  <div id="wrap">
+    <h2>Research projects</h2>
+      <div id="contents">
+
+<h3><a name="#Gillespie">Gillespie algorithm</a></h3>
+<p>Keywords: <strong>network</strong>, time series, point process, Laplace transform
+
+<p>Social networks we form and other networks often change over time, and such networks are analysed under the umbrella term temporal networks. Many temporal networks have <q>burstiness</q>. Suppose you meet somebody and have discrete conversation events. Your conversation events would not occur uniformly at random. A chunk of events tends to occur in a burst, which occurs in an intermittent manner (Figure). In technical terms, the inter-event times obey a long-tailed distribution.
+
+    <table width="100%" border="0" cellpadding="3">
+    <tr> 
+        <td style="text-align:center;"><IMG src="image/event_seq_compare_forweb.png" width="350"></td>
+    </tr>
+    <tr>
+	    <td colspan="2">Fig: A bursty time series. The vertical bar represents the time a conversation event happens e.g. between two particular persons.</td>
+    </tr>
+    </table>
+
+<p>Before burstiness was known, it had been common to assume that conversation events occur as if people arrive at a sales counter sporadically and completely randomly, lacking burstiness (technically, exponential-like distribution of inter-event times). Now we know that this is an oversimplification in many cases.
+<p>The Gillespie algorithm, invented in 1970s, is a mathematical/computational technique with which one can numerically simulate systems of <q>interacting event sequences</q> (e.g. a population of humans or molecules) efficiently and without error. In the original form, this algorithm generates non-bursty event sequences. We invented a new variant of the Gillespie algorithm to be able to generate bursty event sequences. We used mathematical tools so-called the <q>Laplace transform</q> and <q>completely monotone functions</q>.
+
+      </div>
+      <br>
+    </div>
+  </div>
+</div>
+<div id="footer">copyright(C) Naoki Masuda, All rights reserved.</div>
+</body>
+</html>

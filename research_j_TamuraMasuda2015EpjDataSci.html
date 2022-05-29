@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>研究紹介 | 増田直紀</title>
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="js/footerFixed.js"></script>
+<script type="text/javascript" src="js/jquery.exflexfixed.js"></script>
+<script>
+	jQuery(function($){
+		$('div.sub_menu').exFlexFixed({
+			container : '#wrap'
+		});
+	});
+</script>
+</head>
+
+<body onLoad="MM_preloadImages('image/eng_o.gif')">
+<div id="container">
+  <div id="header">
+    <div class="left">
+      <h1><a href="index_j.html"><span class="text">ネットワーク科学 増田直紀</span></a></h1>
+          </div>
+  </div>
+  <div id="wrap">
+      <h2>研究紹介</h2>
+      <div id="contents">
+
+<h3><a name="#football_Tamura">サッカーの監督は、強化学習的にフォーメーションを変更するが、勝利に結びついてるというわけではない</a></h3>
+<p>キーワード：強化学習，スポーツ，データ
+<p>監督の意思決定がチームの成績を大きく左右するだろうことは想像に難くない。
+<p>本研究では、日本とドイツのデータを用いて、次の2つの仮説を検証した。
+    <ul>
+        <li>仮説1：監督が行う試合ごとのスターティング・フォーメーション（下図）変更は、強化学習に従った行動と見なせる。
+        <li>仮説2：強化学習に従ったフォーメーション変更によって、チーム成績が向上する。
+    </ul>
+
+    <table width="100%" border="0" cellpadding="3">
+    <tr> 
+        <td style="text-align:center;"><IMG src="image/formation-forweb.png" width="250"></td>
+    </tr>
+    <tr>
+	    <td colspan="2">図：サッカーのフォーメーションの模式図．このような画像データからスターティング・フォーメーションを抽出して解析を行った。</td>
+    </tr>
+    </table>
+
+	<p>強化学習とは、もしうまくいったら現在の行動を次回も行いやすくして、もしうまくいなかったら現在の行動の頻度を減らしてみることである。これによって、学習が行われるに連れて、以前よりも多い報酬を得ることができると期待される。今回のデータ解析で言えば、もし試合に負けたら次の試合ではフォーメーションを変更する可能性が高くなり、勝ったら次の試合でも同じフォーメーションを用いる可能性が高いということである。
+    <p>なお、スターティング・フォーメーションのデータを用いたのは、そのようなデータが公開されていて利用可能だったからである。データ解析には、多重線形回帰などの標準的な統計手法を用いた。
+    <p>データ解析の結果、仮説1は指示され、仮説2は指示されなかった。すなわち、監督は強化学習を（無意識的にしろ）行っているという手がかりがデータから得られたが、だからといって強化学習が勝率を上げてはいなかった。負けたからといってコロコロ変えるのは良くないかもしれない。
+
+      </div>
+      <br>
+    </div>
+  </div>
+</div>
+<div id="footer">copyright(C) Naoki Masuda, All rights reserved.</div>
+</body>
+</html>

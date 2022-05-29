@@ -1,0 +1,58 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Research Projects | Naoki Masuda</title>
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="js/footerFixed.js"></script>
+<script type="text/javascript" src="js/jquery.exflexfixed.js"></script>
+<script>
+	jQuery(function($){
+		$('div.sub_menu').exFlexFixed({
+			container : '#wrap'
+		});
+	});
+</script>
+</head>
+
+<body onLoad="MM_preloadImages('image/eng_o.gif')">
+<div id="container">
+  <div id="header">
+    <div class="left">
+      <h1 class="en"><a href="index.html"><span class="text">Network Science,Naoki Masuda</span></a></h1>
+          </div>
+  </div>
+  <div id="wrap">
+    <h2>Research projects</h2>
+      <div id="contents">
+
+    <h3><a name="#football_Tamura">Football managers as reinforcement learner</a></h3>
+    <p>Keywords: reinforcement learning, sports, data
+	<p>Managerial decisions should be important for the performance of the team. Using football data in Japan and Germany, we examined the following two hypotheses.
+    <ul>
+        <li>Hypothesis 1: Managers adopt reinforcement learning in deciding on the starting formation (see the figure below) in each game.
+        <li>Hypothesis 2: Reinforcement learning results in a high performance of the team.
+    </ul>
+
+    <table width="100%" border="0" cellpadding="3">
+    <tr> 
+        <td style="text-align:center;"><IMG src="image/formation-forweb.png" width="250"></td>
+    </tr>
+    <tr>
+	    <td colspan="2">Fig: Schematic of the formation in football. We extracted the starting formation from such image data to be submitted to the analysis.</td>
+    </tr>
+    </table>
+
+	<p>Reinforcement learning implies that, if you are successul you would stick to the same behaviour next time, and if you are unsuccessful you would switch to a different behaviour. In this way one expects to get a higher reward than before as the learning goes on. In the context of the present data analysis, the manager would change the starting formation in the next game if the team is defeated, and he would stick to the same formation if the team wins.
+    <p>We used the data on starting formation simply because such data were available online (free of charge). The analysis was conducted using standard statistical methods such as multivariate linear regression.
+    <p>Our data analysis supported hypothesis 1 but not 2. In other words, we found evidence that the managers' behaviour was consistent with reinforcement learning, but it did not mean a high winning rate for the team. It may not be nice to switch from one strategy to another every time the team is lost.
+
+      </div>
+      <br>
+    </div>
+  </div>
+</div>
+<div id="footer">copyright(C) Naoki Masuda, All rights reserved.</div>
+</body>
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>研究紹介 | 増田直紀</title>
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="js/footerFixed.js"></script>
+<script type="text/javascript" src="js/jquery.exflexfixed.js"></script>
+<script>
+	jQuery(function($){
+		$('div.sub_menu').exFlexFixed({
+			container : '#wrap'
+		});
+	});
+</script>
+</head>
+
+<body onLoad="MM_preloadImages('image/eng_o.gif')">
+<div id="container">
+  <div id="header">
+    <div class="left">
+      <h1><a href="index_j.html"><span class="text">ネットワーク科学 増田直紀</span></a></h1>
+          </div>
+  </div>
+  <div id="wrap">
+      <h2>研究紹介</h2>
+      <div id="contents">
+
+<h3><a name="#state_dynamics_temporal_net">テンポラル・ネットワークの状態ダイナミクス</a></h3>
+<p>キーワード：<strong>ネットワーク</strong>，時系列解析，アルゴリズム，クラスタリング
+
+<p>ネットワークはしばしば時間とともに変化する。そのような「テンポラル・ネットワーク」のデータは今となってはたくさん利用可能である。ただ、複雑なネットワーク構造をもつ上に時間とともに変化するテンポラル・ネットワークのデータをどのように理解すればよいのだろうか？ このような一般的な問題意識のもと、我々は新しいデータ解析方法を開発した  [<a href="https://doi.org/10.1038/s41598-018-37534-2" target="_blank">Masuda &amp Holme. Sci Rep (2019)</a>]。この方法では、まず、比較的少ない数の「ネットワーク状態」をデータから決める。そして、ネットワークが時間とともに変化していく様子を、状態（＝1つのネットワーク）から他の状態（＝もう1つのネットワーク）、また他の状態への遷移（昔の状態へと戻る場合も含む）として表す。例えば、下図の左の図は、4人からなるネットワークの状態遷移ダイナミクスを表す。影で囲んだ1つの部分が1つの状態（＝ネットワーク）に対応する。したがって、この例では、4つの状態が想定されている。ネットワークからネットワークへの状態遷移の起こりやすさは、1つの状態から他の状態へと向かう矢印の太さで表されている。
+
+    <table width="100%" border="0" cellpadding="3">
+    <tr> 
+        <td style="text-align:center;"><IMG src="image/system-state-dyn-forweb.png" width="250"></td>
+        <td style="text-align:center;"><IMG src="image/primaryschool-UD-forweb.png" width="300"></td>
+    </tr>
+    <tr>
+	    <td colspan="2">左図：4人から成るテンポラル・ネットワークの状態遷移ダイナミクス。右図：ヨーロッパのある小学校で計測されたソーシャル・ネットワークにおける状態遷移ダイナミクス。離散時刻（横軸）1から25までが計測の初日、26から50までが計測2日目に対応する。それぞれの日について、昼休みが固有の状態（下のパネルの状態2）として検出された。データは<a href="http://www.sociopatterns.org/" target="_blank">SocioPatternsプロジェクト</a>より得た。データと解析の詳細は<a href="https://doi.org/10.1038/s41598-018-37534-2" target="_blank">我々の論文</a>にある。</td>
+    </tr>
+    </table>
+
+<p>技術的には、本手法は、ネットワーク間の距離指標と階層的クラスタリングを組み合わせて用いる。我々は、この方法を使って、例えば「授業中状態」と「昼休み状態」という明確に区別されるネットワーク状態を推定することができた（上図の右の図）。なお、これらの2つの状態は、人と人の接触イベントの頻度といった簡単な指標では検出できない（右の図の真ん中のパネル）。社会ネットワークに限らない他のテンポラル・ネットワークのデータに本手法を適用して有用な知見を得ることは、今後の課題である。
+
+      </div>
+      <br>
+    </div>
+  </div>
+</div>
+<div id="footer">copyright(C) Naoki Masuda, All rights reserved.</div>
+</body>
+</html>
