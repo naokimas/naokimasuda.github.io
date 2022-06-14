@@ -16,7 +16,7 @@ img {
 }
 #container {
 	margin: auto;
-	width: 814px;
+	width: 1014px;
 	text-align: left;
 	height:auto;
 	overflow:hidden;
@@ -85,15 +85,15 @@ img {
 }
 #main {
 	float: left;
-	width: 600px;
+	width: 800px;
 	vertical-align: top;
 }
 #main h2 {
-	width:600px;
+	width:820px;
 	height:41px;
 	line-height:41px;
 	color:#FFFFFF;
-	background-image:url(../image/h2_bg.jpg);
+	background-image:url(../image/h2_bg_longer.jpg);
 	text-indent:15px;
 	text-align:left;
 	font-size:18px;
@@ -102,7 +102,7 @@ img {
 	float:left;
 }
 #main h3 {
-	width:580px;
+	width:780px;
 	line-height:150%;
 	color:#333;
 	text-align:left;
@@ -115,7 +115,7 @@ img {
 }
 #contents {
 	text-align: left;
-	width:600px;
+	width:800px;
 	height:750px;
 	overflow:auto;
 }
@@ -379,7 +379,7 @@ img a {
 }
 
 #publ {
-	width:600px;
+	width:800px;
 	height:750px;
 	overflow: hidden;
 }
