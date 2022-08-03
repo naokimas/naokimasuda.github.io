@@ -1,5 +1,9 @@
 Note: The following errata/typos are privately provided and not listed on the journal's website.
 
+--- Masuda and Kundu. Physical Review Research, 4, 023257 (2022) ---
+
+p.11: The caption of Fig. 7 has two "(g)"s. The latter one should be replaced by "(k)".
+
 --- Masuda, Kojaku, Sano. Physical Review E, 98, 012312 (2018) ---
 
 p.2, left column, line 13 and p.14, right column, heading of Appendix B: "Qu" should be replaced by "Qi".
