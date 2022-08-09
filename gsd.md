@@ -79,4 +79,4 @@ Since learning to teach mathematics is an integral part of your doctoral trainin
 -	Graduate copier, room 236. 
 
 
-##	Don’t forget the Welcoming Party:  eat pizza and wings, and have your picture taken for the Department’s Bulletin Board.
+- Don’t forget the Welcoming Party:  eat pizza and wings, and have your picture taken for the Department’s Bulletin Board.
