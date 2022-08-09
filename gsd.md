@@ -80,4 +80,3 @@ Since learning to teach mathematics is an integral part of your doctoral trainin
 
 
 ##	Don’t forget the Welcoming Party:  eat pizza and wings, and have your picture taken for the Department’s Bulletin Board.
-![image](https://user-images.githubusercontent.com/36268333/183542615-8ac26517-e8af-442b-b396-227254d09e76.png)
