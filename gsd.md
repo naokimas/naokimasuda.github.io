@@ -10,26 +10,26 @@ The first year courses are structured as a cohort sequence. You should be enroll
 ## Fall semester offering:
 
 ### Pure track
--	Analysis--measure theory (MTH 534).
--	Algebra--groups and rings (MTH 519).
--	Geometry/Topology--point set topology (MTH 527).
+-	Analysis--measure theory (MTH 534)
+-	Algebra--groups and rings (MTH 519)
+-	Geometry/Topology--point set topology (MTH 527)
 
 ###	Applied track
--	Analysis--measure theory (MTH 534).
--	Methods of applied mathematics I (MTH 539).
--	Numerical analysis I (MTH 537).
+-	Analysis--measure theory (MTH 534)
+-	Methods of applied mathematics I (MTH 539)
+-	Numerical analysis I (MTH 537)
 
 ## Spring semester offering:
 
-## Pure track
--	Analysis--complex analysis (MTH 625).
--	Algebra--module and galois theory (MTH 520).
--	Geometry/Topology--homotopy theory (MTH 528).
+### Pure track
+-	Analysis--complex analysis (MTH 625)
+-	Algebra--module and galois theory (MTH 520)
+-	Geometry/Topology--homotopy theory (MTH 528)
 
 ###	Applied track
--	Analysis--complex analysis (MTH 625).
--	Methods of applied mathematics II (MTH 540).
--	Numerical analysis II (MTH 538). 
+-	Analysis--complex analysis (MTH 625)
+-	Methods of applied mathematics II (MTH 540)
+-	Numerical analysis II (MTH 538)
 
 If you are in the M.A. program or you are an unsupported Ph.D. student, you must register for a fourth course.
 
