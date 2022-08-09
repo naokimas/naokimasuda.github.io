@@ -38,7 +38,7 @@ The first year courses are structured as a cohort sequence. You should be enroll
 
 - Each new PhD student is assigned a mentor unless you already have a research advisor.
 - Mentor's role is to advise you on the course choice, help you find research advisor, passing you information on relevant seminar talks etc.
-  -- This is relatively a new thing, so we are yet experimenting.
+  - This is relatively a new thing, so we are yet experimenting.
 - The selection of the mentor is based on the research area you expressed in your graduate school application (recommendation by each area committee's chair), but it does not mean that you need to follow that path.
 - Likewise, the mentor and research advisor are independent things.
 
