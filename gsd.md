@@ -68,10 +68,21 @@ Since learning to teach mathematics is an integral part of your doctoral trainin
 -	Funding. I will present in a graduate mentoring seminar.
 -	Look at the AMS publication “A mathematician’s survival guide”.
 
+## SPEAK test
+
+All international PhD students have to pass SPEAK test (Speaking Proficiency English Assessment Kit) to be able to teach. If you are on RA (research assistantship, i.e., supported by a professor's reesarch grant money), you may finish PhD without teaching at all, but the UB policy dictates that you nevertheless have to pass the SPEAK test. Instructions are [here](https://www.buffalo.edu/english-language-institute/graduate/speak-test.html#title_122627731). Note that this webpage contains a practice test as well.
+
+So, international PhD students should do the following right away:
+
+- Book a SPEAK test. How to book it? See the instructions in the URL given above.
+- If you are from an English speaking country, contact them (their contact address should be available on their website) if you need to take it.
+- If you pass it, you are done.
+- If you don't, you need to retake it. The department will provide training to prepare for the exam. Somebody (or myself) will write to you then.
+
 
 ##	Miscellaneous
 
--	International students - change of address, I-20, SPEAK test
+-	International students - change of address, I-20.
 -	Jury duty
 -	Office and mailbox keys can be obtained from main office.
 -	Health insurance orientation
