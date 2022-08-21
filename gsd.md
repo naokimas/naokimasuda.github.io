@@ -44,7 +44,7 @@ The first year courses are structured as a cohort sequence. You should be enroll
   - Not required to meet the mentee on a regular basis. It is up to the mentor.
   - The mentor system is only two years old. So, for now, let the mentor serve only the first year. Then, I will have a town meeting or similar to ask students whether the mentor has been useful. If yes and they want to continue to have the mentor, then I will ask the mentor to continue serving till they find research advisor.
 - The selection of the mentor is based on the research area you expressed in your graduate school application (recommendation by each area committee's chair), but, importantly, it does not mean that you need to follow that path. If one wants to switch from algebra to topology, for example, it is totally fine. 
-- Likewise, importantly, **the mentor and research advisor are independent things. Mentor does not imply research advisor.**
+- Likewise, importantly, **the mentor and research advisor are totally independent things. Mentor does not imply research advisor.**
 
 ## Graduate Mentoring Seminars, 5:15-6:15 pm, room 250.
 
