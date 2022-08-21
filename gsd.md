@@ -37,20 +37,20 @@ The first year courses are structured as a cohort sequence. You should be enroll
 ## Mentor
 
 - Each new PhD student is assigned a mentor unless you already have a research advisor.
-- Mentor's role is to advise you on the course choice, help you find research advisor, passing you information on relevant seminar talks etc.
-  - This is relatively a new thing, so we are yet experimenting.
-- The selection of the mentor is based on the research area you expressed in your graduate school application (recommendation by each area committee's chair), but it does not mean that you need to follow that path.
-- Likewise, the mentor and research advisor are independent things.
+- Mentor's roles:
+  - Advise the mentee on the course choice.
+  - Help the mentee to find research advisor.
+  - Possibly pass the mentee information on relevant seminar talks etc.
+  - Not required to meet the mentee on a regular basis. It is up to the mentor.
+  - The mentor system is only two years old. So, for now, let the mentor serve only the first year. Then, I will have a town meeting or similar to ask students whether the mentor has been useful. If yes and they want to continue to have the mentor, then I will ask the mentor to continue serving till they find research advisor.
+- The selection of the mentor is based on the research area you expressed in your graduate school application (recommendation by each area committee's chair), but, importantly, it does not mean that you need to follow that path.
+- Likewise, importantly, **the mentor and research advisor are independent things. Mentor does not imply research advisor.**
 
-##	Tuesday (? TBD) Mentoring seminars, 5-6 pm, room 250.
+## Graduate Mentoring Seminars, 5:15-6:15 pm, room 250.
 
-During the fall, semester topics in this seminar will cover a range of skills that professional mathematicians will need to master.  For the spring semester, professors in the department will give introductory talks on their area of research.  This seminar is mandatory for all first year graduate students, so please make this time slot available….someone has to eat the pizza.
+During the fall, semester topics in this seminar will cover a range of skills that professional mathematicians will need to master.  For the spring semester, professors in the department will give introductory talks on their area of research.  This seminar is mandatory for all first year graduate students, so please make this time slot available.
 
-(This is the copy from Fall 2019, so will change)
--	Sept. 3, - “Menasco’s rules for doing mathematics.”
--	Sept. 10, - Professor Badzioch, “Using LaTeX”
--	Sept. 17, - Professor Menasco, “Document your achievements”.
-
+The schedule will be circulated soon.
 
 ## TA work
 
@@ -75,6 +75,7 @@ All international PhD students have to pass a SPEAK test (Speaking Proficiency E
 So, international PhD students should do the following right away:
 
 - Book a SPEAK test with them. How to book it? See the instructions on their webpage (URL given above).
+  - **Unless you register the SPEAK test in August (regardless of whether youp ass the test or not), you cannot register courses.**
 - If you are from an English speaking country, contact them (their contact address should be available on their website) if you are exempt or not.
 - If you pass it, you are done!
 - If you don't, you need to retake it. The department will provide training to prepare for the exam. Somebody (or myself) will write to you then.
