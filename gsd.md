@@ -46,7 +46,7 @@ The first year courses are structured as a cohort sequence. You should be enroll
 - The selection of the mentor is based on the research area you expressed in your graduate school application (recommendation by each area committee's chair), but, importantly, it does not mean that you need to follow that path. If one wants to switch from algebra to topology, for example, it is totally fine. 
 - Likewise, importantly, **the mentor and research advisor are totally independent things. Mentor does not imply research advisor.**
 
-## Graduate Mentoring Seminars, 5:15-6:15 pm, room 250.
+## Graduate Mentoring Seminars, 5:15-6:15pm @ Math 250
 
 During the fall, semester topics in this seminar will cover a range of skills that professional mathematicians will need to master.  For the spring semester, professors in the department will give introductory talks on their area of research.  This seminar is mandatory for all first year graduate students, so please make this time slot available.
 
