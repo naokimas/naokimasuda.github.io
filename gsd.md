@@ -78,7 +78,7 @@ So, international PhD students should do the following right away:
   - **Unless you register the SPEAK test in August (regardless of whether youp ass the test or not), you cannot register courses.**
 - If you are from an English speaking country, contact them (their contact address should be available on their website) if you are exempt or not.
 - If you pass it, you are done!
-- If you don't, you need to retake it. The department will provide training to prepare for the exam. Somebody (or myself) will write to you then.
+- If you don't, you need to retake it. The department will provide training for you to pass the exam within two years.
 
 
 ##	Miscellaneous
