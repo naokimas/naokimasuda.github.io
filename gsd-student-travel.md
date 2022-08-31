@@ -29,6 +29,7 @@ Send Naoki <naokimas@buffalo.edu> the following:
   - If the total is over $1200, it is fine. We will pay only up to $1200. 
 - Name of your advisor and the confirmation that the advisor has agreed with the proposed travel.
 - The title and author list of your presentation.
+- Declare all other funding sources, if any, that support the proposed travel. I will only pay the deficit.
 - The reimbursement will be done after the travel. You need to submit an expense claim on CONCUR (see UB website to learn how to do that) with budget codes I will tell you.
 
 ## Why you should travel
