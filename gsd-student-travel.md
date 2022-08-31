@@ -16,16 +16,18 @@ Synopsis: Each PhD student can request a fund for one travel up to $1200 and aut
   - Although I say conference, I do not care whether it is a conference or a smaller workshop.
 - You must already have a research advisor.
 - Your research advisor must agree with the travel.
-- You should present your research in the conference. I know this request ignores different cultures in pure and applied mathematics. If we normalize by the career stage (e.g., 3rd year PhD), pure math sudents probably find it more difficult to already have research to be presented in a conference than applied math students. This is just a cultural difference. Therefore, for applied math students, I require that you present your own research. For pure math students, it is desirable while I do not impose that. Though I do not impose that for pure math students, the travel should be beyond just attending to the conference you are interested in (e.g., initiating new collaboration, discuss your research with participants, networking for a future visit etc.).
+- You should present your research in the conference. I know this request ignores different cultures in pure and applied mathematics. If we normalize by the career stage (e.g., 3rd year PhD), pure math sudents probably find it more difficult to already have research to be presented in a conference than applied math students. This is just a cultural difference. Therefore, for applied math students, I require that you present your own research. For pure math students, it is very desirable to do so while I do not impose that. Though I do not impose that for pure math students, the travel should be beyond just attending to the conference you are interested in (e.g., initiating new collaboration, discuss your research with participants, networking for a future visit etc.).
 - It's a rolling basis. No deadline.
 - We can support up to 10 per year. Therefore, if there are more tan 10 people who requests the fund, I need to decline and ask you to apply for the next academic year (probably for a different conference because it may be difficult to submit an expense claim for a travel that took place long time ago).
 
 ## Procedures
 
 Send Naoki <naokimas@buffalo.edu> the following:
+
 - Conference/workshop's URL
 - Estimated cost. A rough estimate is enough. No need to spend too much time. You only follow the UB's travel policy. What can be reimbursed include air fare, other transportation cost, accommodation, conference registration fee, fixed-rate per diem.
   - If the total is over $1200, it is fine. We will pay only up to $1200. 
+- Name of your advisor and the confirmation that the advisor has agreed with the proposed travel.
 - The reimbursement will be done after the travel. You need to submit an expense claim on CONCUR (see UB website to learn how to do that) with budget codes I will tell you.
 
 ## Why you should travel
