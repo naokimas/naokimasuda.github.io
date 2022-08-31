@@ -18,7 +18,7 @@ Synopsis: Each PhD student can request a fund for one travel up to $1200 and aut
 - Your research advisor must agree with the travel.
 - You should present your research in the conference. I know this request ignores different cultures in pure and applied mathematics. If we normalize by the career stage (e.g., 3rd year PhD), pure math sudents probably find it more difficult to already have research to be presented in a conference than applied math students. This is just a cultural difference. Therefore, for applied math students, I require that you present your own research. For pure math students, it is very desirable to do so while I do not impose that. Though I do not impose that for pure math students, the travel should be beyond just attending to the conference you are interested in (e.g., initiating new collaboration, discuss your research with participants, networking for a future visit etc.).
 - It's a rolling basis. No deadline.
-- We can support up to 10 travels per year. Therefore, if there are more tan 10 people who requests the fund, I need to decline and ask you to apply for the next academic year (probably for a different conference because it may be difficult to submit an expense claim for a travel that took place long time ago).
+- We can support up to 10 travels per year. Therefore, if there are more tan 10 people who request the fund, I need to decline and ask you to apply for the next academic year (probably for a different conference because it may be difficult to submit an expense claim for a travel that took place long time ago).
 
 ## Procedures
 
