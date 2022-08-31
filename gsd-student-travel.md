@@ -10,8 +10,9 @@ Graduate students should travel! See ``Why you should travel'' section below.
 
 - Each PhD student (only PhD) can ask travel money just once for a travel that takes place between the 1st and 5th years in your PhD.
   - So, don't ask me travel money. Here is the answer. I do not support a second travel.
-- The max amount is $1200. You cannot split the money into two separate travels. For example, if you want to use $700 this time and want to save $500 for the future, you cannot. If you plan to go to two conferences in one travel, for example, that is fine.
+- The max amount is $1200. You cannot split the money into two separate travels. For example, if you want to use $700 this time and want to save $500 for the future, you cannot. If you plan to go to two conferences in one travel, that is fine.
   - Why $1200? I am assuming a domestic conference. However, if you want to travel internationally and it costs more, it is fine for you to cover the deficit.
+  - Although I say conference, I do not care whether it is a conference or a smaller workshop.
 - You must already have a research advisor.
 - Your research advisor must agree with the travel.
 - You should present your research in the conference. I know this request ignores different cultures in pure and applied mathematics, because in general, normalized by the career stage (e.g., 3rd year PhD), pure math sudents find it more difficult to already have research to be presented in a conference than applied math students. This is just a cultural difference. Therefore, for applied math students, I require that you present your own research. For pure math students, it is desirable while I do not impose that. Though I do not impose that for pure math students, the travel should be beyond just attending to the conference you are interested in (e.g., initiating new collaboration, discuss your research with participants, networking for a future visit etc.).
