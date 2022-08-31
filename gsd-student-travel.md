@@ -10,9 +10,18 @@ Graduate students should travel! See ``Why you should travel'' section below.
 
 - Each PhD student (only PhD) can ask travel money just once for a travel that takes place between your 1st and 5th years.
 - The max amount is $1200. You cannot split the money into two separate travels. For example, if you want to use $700 this time and want to save $500 for the future, you cannot. If you plan to go to two conferences in one travel, for example, that is fine.
+  -- Why $1200? I am assuming a domestic conference. However, if you want to travel internationally and it costs more, it is fine for you to cover the deficit.
 - You must already have a research advisor.
 - Your research advisor must agree with the travel.
 - You should present your research in the conference. I know this request ignores different cultures in pure and applied mathematics, because in general, normalized by the career stage (e.g., 3rd year PhD), pure math sudents find it more difficult to already have research to be presented in a conference than applied math students. This is just a cultural difference. Therefore, for applied math students, I require that you present your own research. For pure math students, it is desirable while I do not impose that. Though I do not impose that for pure math students, the travel should be beyond just attending to the conference you are interested in (e.g., initiating new collaboration, discuss your research with participants, networking for a future visit etc.).
+
+## Procedures
+
+Send Naoki <naokimas@buffalo.edu> the following:
+- Conference/workshop's URL
+- Estimated cost. A rough estimate is enough. No need to spend too much time. You only follow the UB's travel policy. What can be reimbursed include air fare, other transportation cost, accommodation, conference registration fee, fixed-rate per diem.
+  -- If the total is over $1200, it is fine. We will pay only up to $1200. 
+- The reimbursement will be done after the travel. You need to submit an expense claim on CONCUR (see UB website to learn how to do that) with budget codes I will tell you.
 
 ## Why you should travel
 
