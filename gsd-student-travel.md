@@ -20,7 +20,7 @@ Synopsis: Each PhD student can request a fund for one travel up to $1200 and aut
 - It's a rolling basis. No deadline.
 - We can support up to 10 travels per year. Therefore, if there are more tan 10 people who request the fund, I need to decline and ask you to apply for the next academic year (probably for a different conference because it may be difficult to submit an expense claim for a travel that took place long time ago). However, I think this is unlikely to happen.
 
-## Procedures
+## Application and reimbursement procedures
 
 Send Naoki <naokimas@buffalo.edu> the following:
 
