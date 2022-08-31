@@ -4,7 +4,8 @@ Synopsis: Each PhD student can request a fund for one travel up to $1200 and aut
 
 ## Background
 
-Graduate students should travel! See ``Why you should travel'' section below.
+- Graduate students should travel! See ``Why you should travel'' section below.
+- It is in general not good to expect what you can automatically get. You should actively look for travel money and actively go to conferences with such money. Please see ``Why you should travel'' section below for this, too.
 
 ## Rules
 
