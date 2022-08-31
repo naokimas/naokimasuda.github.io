@@ -11,7 +11,7 @@ Graduate students should travel! See ``Why you should travel'' section below.
 - Each PhD student (only PhD) can ask travel money just once for a travel that takes place between the 1st and 5th years in your PhD.
   - So, don't ask me travel money. Here is the answer. I do not support a second travel.
 - The max amount is $1200. You cannot split the money into two separate travels. For example, if you want to use $700 this time and want to save $500 for the future, you cannot. If you plan to go to two conferences in one travel, that is fine.
-  - Why $1200? I am assuming a domestic conference. However, if you want to travel internationally and it costs more, it is fine for you to cover the deficit.
+  - Why $1200? I am assuming a domestic conference. However, if you want to travel internationally and it costs more, it is fine for you to cover the deficit. If your travel is domestic but the cost is still above $1200, you need to cover the deficit. $1200 is the maximum we can do.
   - Although I say conference, I do not care whether it is a conference or a smaller workshop.
 - You must already have a research advisor.
 - Your research advisor must agree with the travel.
