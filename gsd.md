@@ -67,7 +67,7 @@ The first year courses are structured as a cohort sequence. You must be enrolled
 - There is nothing named first-year courses.
 - Plan NOW how many semesters you want to spend to graduate and which mandatory/elective courses you plan to take.
 - Some courses do not occur every year/semester.
-  - If you go to the courses website (under the "Courses" tab on the department's website), you can see all the Fall and Spring courses.
+  - If you go to [the courses website](https://www.buffalo.edu/cas/math/courses.html), you can see all the Fall and Spring courses.
   - Popular courses fill quickly. Act quickly once the registration is open.
 - A research project (3 credits) is mandatory in the third semester (if you plan to graduate in three semesters). You should contact preferred professor as advisor sometime between the second and third semester. Or I will talk to you to discuss this.
 
