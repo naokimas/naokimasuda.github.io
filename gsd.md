@@ -17,12 +17,20 @@ This is for PhD students only.
   - First talk by me next week on the structure of the graduate programs.
   - No seminars in some weeks (you will see it in the schedule that will be distributed).
 
+## First-year courses
+
+- They are already starting!
+- PhD and MA: You need to choose Pure or Applied Track and take the corresponding mandatory courses.
+- MS: Read carefully the requirement and plan it ahead.
+- More on this next week.
 
 # Structure of graduate programs
 
-##	First-year courses
+##	First-year courses for PhD and MA students
 
-The first year courses are structured as a cohort sequence. You should be enrolled in either Applied or Pure track.
+Read your program's webpage under the "Graduate" tab on the department's website.
+
+The first year courses are structured as a cohort sequence. You must be enrolled in either Pure or Applied track.
 
 ### Fall semester offering:
 
@@ -32,9 +40,9 @@ The first year courses are structured as a cohort sequence. You should be enroll
 -	Geometry/Topology--point set topology (MTH 527)
 
 ####	Applied track
--	Analysis--measure theory (MTH 534)
--	Methods of applied mathematics I (MTH 539)
 -	Numerical analysis I (MTH 537)
+-	Methods of applied mathematics I (MTH 539)
+-	Either of the three mandatory courses in the Pure track
 
 ### Spring semester offering:
 
@@ -44,15 +52,23 @@ The first year courses are structured as a cohort sequence. You should be enroll
 -	Geometry/Topology--homotopy theory (MTH 528)
 
 ####	Applied track
--	Analysis--complex analysis (MTH 625)
--	Methods of applied mathematics II (MTH 540)
 -	Numerical analysis II (MTH 538)
+-	Methods of applied mathematics II (MTH 540)
+-	Either of the three mandatory courses in the Pure track or Applied Complex Analysis (new)
 
+- If you are MA student or unsupported PhD student, you must register for a fourth course.
+- There is an evaluation exam (often called qualifying exam) associated with each of the above courses. Evaluation exams are given during finals week. How it is given depends on the course, and the course instructor will let you know.
+  - Many instructors of those courses us the final exam as the evaluation exam.
+- PhD students must pass 4 out of 6 evaluation exams. MA students must pass 3 out of 6.
+- Taking graduate classes as a cohort is meant to encourage studying mathematics in groups. So, create and get into study groups! (Also recommended for MS students)
 
-- If you are in the M.A. program or you are an unsupported Ph.D. student, you must register for a fourth course.
-- There is an evaluation exam associated with each of the above courses. Evaluation exams are given during finals week. How it is given depends on the course, and the course instructor will let you know.
-- Students in the Ph.D. program must pass 4 out of 6 evaluation exams. M.A. students must pass 3 out of 6.
-- Taking graduate classes as a cohort is meant to encourage studying mathematics in groups. So, create and get into study groups!
+##	First-year courses for MS students
+
+- There is nothing named first-year courses.
+- Plan NOW how many semesters you want to spend to graduate and which mandatory/elective courses you plan to take.
+- Some courses do not occur every year/semester.
+  - If you go to the courses website (under the "Courses" tab on the department's website), you can see all the Fall and Spring courses.
+  - Popular courses fill quickly. Act quickly once the registration is open.
 
 ## Mentor
 
