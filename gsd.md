@@ -73,7 +73,25 @@ The first year courses are structured as a cohort sequence. You must be enrolled
 
 ## Second and later years of the PhD course &ndash; Not many people have told this to you
 
+### Credit count
 
+- 72 credits to graduate, but this won't usually be an issue.
+- You need to take an oral examination to advance to candidacy (Let's call it "oral exam").
+  - Before you pass "oral exam", you need to take 9 credits per semester if you are TA and 12 credits per semester if you are not TA.
+  - After you pass "oral exam", you only need to take 1 credit per semester.
+
+### Start research
+
+- At any point, you can look for research advisor (a.k.a. thesis advisor, or supervisor. Let's simply call it "advisor").
+  - You approach preferred professor anytime to ask.
+  - Some professors may say yes, some may say no, for various reasons.
+  - Some professors prefer to start from the Reading course rather than to immediately agree with your advisor.
+- Can take the Research course or Reading course for a variable number of credits.
+  - An approval by the advisor (or the professor who has agreed to do a Reading course with you) is needed.
+  - Paperwork is needed for registering to the Research/Reading course. Ask Jenny Russell.
+- You may be hired as RA (research assistant) instead of TA.
+  - It depends on the professor. Don't ask me.
+  - You can come back to TA if the RA period has finished. The department monitors all such information, so no worries.
 
 ## Mentor
 
