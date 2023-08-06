@@ -69,6 +69,11 @@ The first year courses are structured as a cohort sequence. You must be enrolled
 - Some courses do not occur every year/semester.
   - If you go to the courses website (under the "Courses" tab on the department's website), you can see all the Fall and Spring courses.
   - Popular courses fill quickly. Act quickly once the registration is open.
+- A research project (3 credits) is mandatory in the third semester (if you plan to graduate in three semesters). You should contact preferred professor as advisor sometime between the second and third semester. Or I will talk to you to discuss this.
+
+## Second and later years of the PhD course &ndash; Not many people have told this to you
+
+
 
 ## Mentor
 
