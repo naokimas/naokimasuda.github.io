@@ -4,6 +4,20 @@ I have only 15 mins, so only key things you should know right now. I will presen
 
 ## TA/grader duties
 
+This is for PhD students only.
+
+- The TA training was on August 25th and 26th. So the new TAs already know about general duties.
+- Grader training during Week 1.
+- Handled by Dr. Tara Hudson. Contact her for any questions.
+
+## Graduate Mentoring Seminars, Tuesdays 4-5pm @ Math 250
+
+- This is 0-credit seminars, but this is mandatory for all the first-yera graduate students.
+- Semester topics will cover a range of skills that professional mathematicians will need to master. Also, professors in the department - The schedule will be circulated soon.
+  - First talk by me next week on the structure of the graduate programs.
+  - No seminars in some weeks (you will see it in the schedule that will be distributed).
+
+
 # Structure of graduate programs
 
 ##	First-year courses
@@ -52,11 +66,6 @@ The first year courses are structured as a cohort sequence. You should be enroll
 - The selection of the mentor is based on the research area you expressed in your graduate school application (recommendation by each area committee's chair), but, importantly, it does not mean that you need to follow that path. If one wants to switch from algebra to topology, for example, it is totally fine. 
 - Likewise, importantly, **the mentor and research advisor are totally independent things. Mentor does not imply research advisor.**
 
-## Graduate Mentoring Seminars, 5:15-6:15pm @ Math 250
-
-During the fall, semester topics in this seminar will cover a range of skills that professional mathematicians will need to master.  For the spring semester, professors in the department will give introductory talks on their area of research.  This seminar is mandatory for all first year graduate students, so please make this time slot available.
-
-The schedule will be circulated soon.
 
 ## TA work
 
