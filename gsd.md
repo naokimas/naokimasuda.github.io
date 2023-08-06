@@ -95,7 +95,7 @@ The first year courses are structured as a cohort sequence. You must be enrolled
 
 ## Mentor
 
-- Each new PhD student is assigned a mentor unless you already have a research advisor.
+- Each new PhD student is assigned a mentor unless you already have an advisor.
 - Mentor's roles:
   - Advise the mentee on the course choice.
   - Help the mentee to find research advisor.
@@ -103,24 +103,17 @@ The first year courses are structured as a cohort sequence. You must be enrolled
   - Not required to meet the mentee on a regular basis. It is up to the mentor.
   - The mentor system is only two years old. So, for now, let the mentor serve only the first year. Then, I will have a town meeting or similar to ask students whether the mentor has been useful. If yes and they want to continue to have the mentor, then I will ask the mentor to continue serving till they find research advisor.
 - The selection of the mentor is based on the research area you expressed in your graduate school application (recommendation by each area committee's chair), but, importantly, it does not mean that you need to follow that path. If one wants to switch from algebra to topology, for example, it is totally fine. 
-- Likewise, importantly, **the mentor and research advisor are totally independent things. Mentor does not imply research advisor.**
+- Likewise, importantly, the mentor and advisor are totally independent things. Mentor does not imply advisor.
 
 
 ## TA work
 
 Since learning to teach mathematics is an integral part of your doctoral training, it is the policy of the dept. that all Ph.D. students be given a TAship as soon as possible.
 
--	You will receive your TA assignments the week before classes begin, and you should contact the instructors immediately upon receiving your assignments.  Recitations start in the first week of classes.
-- More will come later in this orientation session.
-
-##	Mathematical life
-
--	Department colloquium
--	Regular weekly seminars: Algebra, Analysis, Applied, and Geometry/Topology.
--	Myhill lectures, usually in Spring.
--	Regional graduate workshops.  (More will be covered in Tuesday Mentoring seminar.)
--	Funding. I will present in a graduate mentoring seminar.
--	Look at the AMS publication “A mathematician’s survival guide”.
+- Exception: RA. But, as far as I know, we have not had prior examples of 5-year RAs.
+-	You will receive your TA assignments the week before classes begin, and you should contact the instructors immediately upon receiving your assignments. Recitations start in the first week of classes.
+  -	Contact Associate Chair (not me) for teaching duties.
+  -	Tara Hudson and others lead TA training.
 
 ## SPEAK test
 
@@ -134,6 +127,16 @@ So, international PhD students should do the following right away:
 - If you pass it, you are done!
 - If you don't, you need to retake it. The department will provide training for you to pass the exam within two years.
 
+
+##	Mathematical life
+
+-	Department colloquium
+-	Regular weekly seminars: Algebra, Analysis, Applied, and Geometry/Topology.
+-	Myhill lectures for three days.
+-	Regional graduate workshops.
+-	Funding.
+-	Look at the AMS publication “A mathematician’s survival guide”.
+-	Mingle. Connect. Explore. The graduate program is not just course taking.
 
 ##	Miscellaneous
 
