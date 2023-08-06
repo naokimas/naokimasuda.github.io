@@ -1,4 +1,10 @@
-# New Graduate Student Orientation (Naoki's part) --- Fall 2022 
+# New Graduate Student Orientation (Naoki's part) &ndash; Fall 2023
+
+I have only 15 mins, so only key things you should know right now. I will present all others in my talk in Graduate Mentoring Seminar next week.
+
+## TA/grader duties
+
+# Structure of graduate programs
 
 ##	First-year courses
 
