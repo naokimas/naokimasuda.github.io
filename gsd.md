@@ -28,7 +28,7 @@ This is for PhD students only.
 
 ##	First-year courses for PhD and MA students
 
-Read your program's webpage under the "Graduate" tab on the department's website.
+Read your program's webpage under the "Graduate" tab on [the department's website](https://www.buffalo.edu/cas/math.html).
 
 The first year courses are structured as a cohort sequence. You must be enrolled in either Pure or Applied track.
 
