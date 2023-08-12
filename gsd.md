@@ -24,7 +24,7 @@ This is for PhD students only.
 - MS: Read carefully the requirement and plan it ahead.
 - More on this next week.
 
-# Structure of graduate programs
+# Structure of graduate programs &ndash; presented in a Graduate Mentoring Seminar (by Naoki) 
 
 ##	First-year courses for PhD and MA students
 
@@ -114,6 +114,14 @@ Since learning to teach mathematics is an integral part of your doctoral trainin
 -	You will receive your TA assignments the week before classes begin, and you should contact the instructors immediately upon receiving your assignments. Recitations start in the first week of classes.
   -	Contact Associate Chair (not me) for teaching duties.
   -	Tara Hudson and others lead TA training.
+
+## Travel
+
+- Basically, everything should be done on [CONCUR](https://www.buffalo.edu/administrative-services/business-travel/travel-expense-reimbursement-system.html), a UB's online system. Help on CONCUR is available at
+    - online documentation and video tutorials on the CONCUR page cited above.
+    - [Reimbursement and Procurement (RP) team](https://arts-sciences.buffalo.edu/faculty-staff/faculty-staff-resources/shared-services/reimbursement-procurement.html). At the bottom of the page, there is an icon "Online Request Portal" for students to submit their request. The students will need to provide the department account number on where the reimbursement is coming from. 
+- Currently, you need to submit a pre-travel approval on CONCUR before you travel.
+    - This is required even if your travel is paid by, e.g., a different university.
 
 ## SPEAK test
 
