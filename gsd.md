@@ -17,11 +17,14 @@ This is for PhD students only.
   - First talk by me next week on the structure of the graduate programs.
   - No seminars in some weeks (you will see it in the schedule that will be distributed).
 
+- Familiarity with LaTeX?
+
 ## First-year courses
 
 - They are already starting!
 - PhD and MA: You need to choose Pure or Applied Track and take the corresponding mandatory courses.
 - MS: Read carefully the requirement and plan it ahead.
+- MA and MS: Show me your choices by email.
 - More on this next week.
 
 # Structure of graduate programs &ndash; presented in a Graduate Mentoring Seminar (by Naoki) 
@@ -55,10 +58,11 @@ The first year courses are structured as a cohort sequence. You must be enrolled
 -	Numerical analysis II (MTH 538)
 -	Methods of applied mathematics II (MTH 540)
 -	Either of the three mandatory courses in the Pure track or Applied Complex Analysis (new)
+    -	Details of Applied Complex Analysis will follow. Stay tuned.
 
 - If you are MA student or unsupported PhD student, you must register for a fourth course.
 - There is an evaluation exam (often called qualifying exam) associated with each of the above courses. Evaluation exams are given during finals week. How it is given depends on the course, and the course instructor will let you know.
-  - Many instructors of those courses us the final exam as the evaluation exam.
+  - Many instructors of those courses use the final exam as the evaluation exam.
 - PhD students must pass 4 out of 6 evaluation exams. MA students must pass 3 out of 6.
 - Taking graduate classes as a cohort is meant to encourage studying mathematics in groups. So, create and get into study groups! (Also recommended for MS students)
 
@@ -69,7 +73,7 @@ The first year courses are structured as a cohort sequence. You must be enrolled
 - Some courses do not occur every year/semester.
   - If you go to [the courses website](https://www.buffalo.edu/cas/math/courses.html), you can see all the Fall and Spring courses.
   - Popular courses fill quickly. Act quickly once the registration is open.
-- A research project (3 credits) is mandatory in the third semester (if you plan to graduate in three semesters). You should contact preferred professor as advisor sometime between the second and third semester. Or I will talk to you to discuss this.
+- A research project (3 credits) is mandatory in the third semester (if you plan to graduate in three semesters). You should contact preferred professor as advisor sometime between the second and third semester, or during the second semester.
 
 ## Second and later years of the PhD course &ndash; Not many people have told this to you
 
@@ -83,19 +87,25 @@ The first year courses are structured as a cohort sequence. You must be enrolled
 ### Start research
 
 - At any point, you can look for research advisor (a.k.a. thesis advisor, or supervisor. Let's simply call it "advisor").
-  - You approach preferred professor anytime to ask.
-  - Some professors may say yes, some may say no, for various reasons.
-  - Some professors prefer to start from the Reading course rather than to immediately agree with your advisor.
+    - You approach preferred professor anytime to ask.
+    - Some professors may say yes, some may say no, for various reasons.
+    - Some professors prefer to start from the Reading course rather than to immediately agree with your advisor.
+    - Only tenure-line professors (excluding Clinical Professors, who focus on teaching, or Visiting Assistant Professors, whose terms are 2-3 years only)
 - Can take the Research course or Reading course for a variable number of credits.
-  - An approval by the advisor (or the professor who has agreed to do a Reading course with you) is needed.
-  - Paperwork is needed for registering to the Research/Reading course. Ask Jenny Russell.
+    - An approval by the advisor (or the professor who has agreed to do a Reading course with you) is needed.
+    - Paperwork is needed for registering to the Research/Reading course. Ask Jenny Russell.
 - You may be hired as RA (research assistant) instead of TA.
-  - It depends on the professor. Don't ask me.
-  - You can come back to TA if the RA period has finished. The department monitors all such information, so no worries.
+    - It depends on the professor. Don't ask me.
+    - You can come back to TA if the RA period has finished. The department monitors all such information, so no worries.
+- MA: Research is not mandatory. However, if you want to, contact professors who you want to have as advisor to see if they are willing to advise you.
+    - Research or Reading course credits are available upon the consent of the advisor (and my approval).
+- MS: See above. You must do research in the third (or final) semester.
 
 ## Mentor
 
-- Each new PhD student is assigned a mentor unless you already have an advisor.
+- Ignore what HUB says on this. They automatically fill the advisor/mentor's names (?) but are not relevant.
+- I assign each new PhD student a mentor unless you already have an advisor.
+- Mentor and advisors are different by definition. Let's distinguish between these two terms!
 - Mentor's roles:
   - Advise the mentee on the course choice.
   - Help the mentee to find research advisor.
@@ -104,7 +114,7 @@ The first year courses are structured as a cohort sequence. You must be enrolled
   - The mentor system is only two years old. So, for now, let the mentor serve only the first year. Then, I will have a town meeting or similar to ask students whether the mentor has been useful. If yes and they want to continue to have the mentor, then I will ask the mentor to continue serving till they find research advisor.
 - The selection of the mentor is based on the research area you expressed in your graduate school application (recommendation by each area committee's chair), but, importantly, it does not mean that you need to follow that path. If one wants to switch from algebra to topology, for example, it is totally fine. 
 - Likewise, importantly, the mentor and advisor are totally independent things. Mentor does not imply advisor.
-
+- MA and MS: You don't have personal mentor. Jenny Russell and I are your contacts.
 
 ## TA work
 
