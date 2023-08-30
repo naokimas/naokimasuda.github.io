@@ -27,9 +27,11 @@ This is for PhD students only.
 - MA and MS: Show me your choices by email.
 - More on this next week.
 
-## More
+## Other presentations in the orientation event
 
-- H Forgaty came to talk about scholarship/fellowship. Their main webpage is [this](https://www.buffalo.edu/grad/explore/funding/fellowships.html).
+- H Forgaty came to talk about scholarship/fellowship. Their main webpage is [here](https://www.buffalo.edu/grad/explore/funding/fellowships.html). I shared their slides by email.
+- Librarian Keith Nichols talked about [UB library](https://library.buffalo.edu/).
+- Marla McBride came to talk about wellness. Their main webpage is [here](https://www.buffalo.edu/studentlife/life-on-campus/health.html).
 
 # Structure of graduate programs &ndash; presented in a Graduate Mentoring Seminar (by Naoki) 
 
