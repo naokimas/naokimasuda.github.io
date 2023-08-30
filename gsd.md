@@ -30,6 +30,7 @@ This is for PhD students only.
 ## Other presentations in the orientation event
 
 - H Forgaty came to talk about scholarship/fellowship. Their main webpage is [here](https://www.buffalo.edu/grad/explore/funding/fellowships.html). I shared their slides by email.
+- Graduate Student Employees Union (GSEU) representatives talked about [GSEU](https://www.buffalo.edu/administrative-services/for-faculty-staff/benefits/state/gseu.html).
 - Librarian Keith Nichols talked about [UB library](https://library.buffalo.edu/).
 - Marla McBride came to talk about wellness. Their main webpage is [here](https://www.buffalo.edu/studentlife/life-on-campus/health.html).
 
