@@ -27,6 +27,10 @@ This is for PhD students only.
 - MA and MS: Show me your choices by email.
 - More on this next week.
 
+## More
+
+- H Forgaty came to talk about scholarship/fellowship. Their main webpage is [this](https://www.buffalo.edu/grad/explore/funding/fellowships.html).
+
 # Structure of graduate programs &ndash; presented in a Graduate Mentoring Seminar (by Naoki) 
 
 ##	First-year courses for PhD and MA students
