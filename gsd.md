@@ -108,7 +108,7 @@ The first year courses are structured as a cohort sequence. You must be enrolled
     - Research or Reading course credits are available upon the consent of the advisor (and my approval).
 - MS: See above. You must do research in the third (or final) semester.
 
-## Mentor
+## [Mentor](#Mentor)
 
 - Ignore what HUB says on this. They automatically fill the advisor/mentor's names (?) but are not relevant.
 - I assign each new PhD student a mentor unless you already have an advisor.
