@@ -116,9 +116,13 @@ The first year courses are structured as a cohort sequence. You must be enrolled
 - Mentor's roles:
   - Advise the mentee on the course choice.
   - Help the mentee to find research advisor.
-  - Possibly pass to the mentee information on relevant seminar talks etc.
-  - Not required to meet the mentee on a regular basis. It is up to the mentor.
-  - The mentor system is only two years old. So, for now, let the mentor serve only the first year. Then, I will have a town meeting or similar to ask students whether the mentor has been useful. If yes and they want to continue to have the mentor, then I will ask the mentor to continue serving till they find research advisor.
+  - Possibly pass to the mentee information on relevant seminar talks, gatherings, etc.
+  - Not required to meet the mentee on a regular basis. It is up to the mentor. However, I ask the mentor to meet the mentee at least twice a semester. The mentor may wonder what they should discuss with their mentees. Here are some ideas:
+      - How they are doing with the ongoing courses?
+      - Their academic interests?
+      - Where they are from, whether they are happy with the current situations?
+      - What do they want to become, though it may be too early for them to have clear plans?
+      - You may be willing to share your own academic interst or your experiences or any stories with your mentee.
 - The selection of the mentor is based on the research area you expressed in your graduate school application (recommendation by each area committee's chair), but, importantly, it does not mean that you need to follow that path. If one wants to switch from algebra to topology, for example, it is totally fine. 
 - Likewise, importantly, the mentor and advisor are totally independent things. Mentor does not imply advisor.
 - MA and MS: You don't have personal mentor. Jenny Russell and I are your contacts.
