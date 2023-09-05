@@ -179,6 +179,3 @@ So, international PhD students should do the following right away:
 -	Your UB student ID card is your swipe card into the building.
 -	Graduate copier, room 236. 
 -	[SUBgroups](https://gradsubgroups.org/) (online peer groups for first-year math graduate students), if you are interested. FYI.
-
-
-- Don’t forget the Welcoming Party:  eat pizza and wings, and have your picture taken for the Department’s Bulletin Board.
