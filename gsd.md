@@ -19,6 +19,15 @@ This is for PhD students only.
 
 - Familiarity with LaTeX?
 
+## You must
+- come to classes
+- promise deadlines for homework
+- respond to instructor/staff's emails when necessary
+- Why should you do these?
+  - Such basics will be needed when you start to really work in academia or industry. Nobody wants people who cannot do those basics.
+  - Who can be your advisor in the future? Who can write recommendation letters in the future?
+
+
 ## First-year courses
 
 - They are already starting!
