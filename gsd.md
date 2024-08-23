@@ -6,11 +6,11 @@ I have only 15 mins, so only key things you should know right now. I will presen
 
 This is for PhD students only.
 
-- The TA training was on August 25th and 26th. So the new TAs already know about general duties.
-- Grader training during Week 1.
-- Handled by Dr. Tara Hudson. Contact her for any questions.
+- The TA training was on August xxth and xxth. So the new TAs already know about general duties.
+- Grader training during Week xx.
+- Handled by Dr. Tara Hudson (?). Contact her for any questions.
 
-## Graduate Mentoring Seminars, Tuesdays 4-5pm @ Math 250
+## Graduate Mentoring Seminars, Tuesdays 5-6pm @ Math 250
 
 - This is 0-credit seminars, but this is mandatory for all the first-yera graduate students.
 - Semester topics will cover a range of skills that professional mathematicians will need to master. Also, professors in the department - The schedule will be circulated soon.
@@ -38,8 +38,8 @@ This is for PhD students only.
 
 ## Other presentations in the orientation event
 
-- H Forgaty came to talk about scholarship/fellowship. Their main webpage is [here](https://www.buffalo.edu/grad/explore/funding/fellowships.html). I shared their slides by email.
-- Graduate Student Employees Union (GSEU) representatives talked about [GSEU](https://www.buffalo.edu/administrative-services/for-faculty-staff/benefits/state/gseu.html).
+- Lisa Gagnon came to talk about scholarship/fellowship. Their main webpage is [here](https://www.buffalo.edu/grad/explore/funding/fellowships.html). I share their slides by email.
+- [Not this year] Graduate Student Employees Union (GSEU) representatives talked about [GSEU](https://www.buffalo.edu/administrative-services/for-faculty-staff/benefits/state/gseu.html).
 - Librarian Keith Nichols talked about [UB library](https://library.buffalo.edu/).
 - Marla McBride came to talk about wellness. Their main webpage is [here](https://www.buffalo.edu/studentlife/life-on-campus/health.html).
 
