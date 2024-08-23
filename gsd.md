@@ -1,4 +1,4 @@
-# New Graduate Student Orientation (Naoki's part) &ndash; Fall 2023
+# New Graduate Student Orientation (Naoki's part) &ndash; Fall 2024
 
 I have only 15 mins, so only key things you should know right now. I will present all others in my talk in Graduate Mentoring Seminar next week.
 
