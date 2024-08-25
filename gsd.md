@@ -36,7 +36,7 @@ This is for PhD students only.
 - PhD and MA: You need to choose Pure or Applied Track and take the corresponding mandatory courses.
 - MS: Read carefully the requirement and plan it ahead.
 - MA and MS: Show me your choices by email.
-
+- In my opinion, PhD is about research, not course taking. However, aim at good grades in all of those courses. If you do not perform well in those courses, you might struggle to find an advisor in the future. (It depends on the professor. As an example, I personally care.)
 
 ## Other presentations in the orientation event
 
