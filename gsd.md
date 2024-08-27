@@ -56,25 +56,25 @@ The first year courses are structured as a cohort sequence. You must be enrolled
 ### Fall semester offering:
 
 #### Pure track
--	Analysis--measure theory (MTH 534)
--	Algebra--groups and rings (MTH 519)
--	Geometry/Topology--point set topology (MTH 527)
+-	Analysis--Basic Measure Theory (MTH 534)
+-	Algebra--Introduction to Abstract Algebra (MTH 519)
+-	Geometry/Topology--Introduction to Topology I (MTH 527)
 
 ####	Applied track
--	Numerical analysis I (MTH 537)
--	Methods of applied mathematics I (MTH 539)
+-	Introduction to Numerical Analysis I (MTH 537)
+-	Methods of Applied Mathematics I (MTH 539)
 -	Either of the three mandatory courses in the Pure track
 
 ### Spring semester offering:
 
 #### Pure track
--	Analysis--complex analysis (MTH 625)
--	Algebra--module and galois theory (MTH 520)
--	Geometry/Topology--homotopy theory (MTH 528)
+-	Analysis--Complex Variables (MTH 625)
+-	Algebra--Advanced Linear Algebra (MTH 520)
+-	Geometry/Topology--Introduction to Topology II (MTH 528)
 
 ####	Applied track
--	Numerical analysis II (MTH 538)
--	Methods of applied mathematics II (MTH 540)
+-	Introduction to Numerical Analysis II (MTH 538)
+-	Methods of Applied Mathematics II (MTH 540)
 -	Either of the three mandatory courses in the Pure track or Applied Complex Analysis (officially called MTH 639 Fourier Analysis)
 
 - If you are international MA student or international unsupported PhD student, you must register for a fourth course.
