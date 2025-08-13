@@ -24,16 +24,12 @@ img {
 	overflow:hidden;
 }
 */
-
-/* Container spans full width, from Chat GPT, replaced 8/2025 */
+/* suggested by GPT, 8/2025 */
 #container {
-    margin: 0;
-    padding: 0;
-    width: 100%;
+    margin: 0;       /* remove auto-centering */
+    width: auto;     /* let it expand with window */
+    max-width: 100%; /* prevent overflow */
     text-align: left;
-    display: flex;
-    flex-direction: column; /* Header on top, content below */
-    min-height: 100vh;
 }
 
 #header {
@@ -98,7 +94,6 @@ img {
 #header .text {
 	margin-left:-9999px;
 }
-
 /* Replaced by Chat GPT's suggestion just below
 #main {
 	float: left;
@@ -106,13 +101,11 @@ img {
 	vertical-align: top;
 }
 */
-/* Main content expands to fill, suggested by Chat GPT, 8/2025 */
+/* suggested by GPT, 8/2025 */
 #main {
-    flex: 1; /* take all remaining width */
-    min-width: 0; /* prevents overflow in flex */
-    padding: 0 20px; /* optional side padding */
+    float: left;
+    width: calc(100% - 214px); /* fill remaining width after nav */
 }
-
 /* Replaced by Chat GPT's suggestion just below
 #main h2 {
 	width:820px;
@@ -128,11 +121,10 @@ img {
 	float:left;
 }
 */
-/* Headings adapt to available width, suggested by Chat GPT, 8/2025 */
+/* suggested by GPT, 8/2025 */
 #main h2 {
     width: 100%;
 }
-
 
 #main h3 {
 	width:780px;
@@ -146,7 +138,6 @@ img {
 	font-weight:bold;
 	padding:0 0 5px 0;
 }
-
 /* Replaced by Chat GPT's suggestion just below
 #contents {
 	text-align: left;
@@ -155,7 +146,7 @@ img {
 	overflow:auto;
 }
 */
-/* suggested by Chat GPT, 8/2025 */
+/* suggested by GPT, 8/2025 */
 #contents {
     width: 100%;
 }
@@ -310,7 +301,6 @@ img a {
 }
 /*左メニュー*/
 
-/* Replaced by Chat GPT's suggestion just below
 #nav {
 	width:214px;
 	float: left;
@@ -319,14 +309,6 @@ img a {
 	font-size:12px;
 	line-height:125%;
 }
-*/
-/* Left menu, suggested by Chat GPT, 8/2025 */
-#nav {
-    flex: 0 0 214px; /* fixed menu width */
-    padding: 0;
-    margin: 0;
-}
-
 #nav ul {
 	width:210px;
 	list-style:none;
@@ -423,16 +405,8 @@ img a {
 	opacity:1;
 	color:#FFFF00;
 }
-
-/* Replaced by Chat GPT's suggestion just below
 #wrap {
 	float:left;
-}
-*/
-/* Content area: nav + main side by side, suggested by Chat GPT, 8/2025 */
-#wrap {
-    display: flex;
-    flex: 1; /* fill available vertical space */
 }
 
 #publ {
