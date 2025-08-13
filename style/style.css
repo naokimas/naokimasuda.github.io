@@ -130,7 +130,9 @@ img {
 */
 /* Headings adapt to available width, suggested by Chat GPT, 8/2025 */
 #main h2 {
- display: block;
+	display: block;
+	float: none;   /* stop floating */
+    clear: both;   /* start below previous content */
     width: 100%;
     height: 41px;
     line-height: 41px;
@@ -146,19 +148,17 @@ img {
     /*    background-repeat: repeat-x; */ /* or no-repeat if you don't want tiling */
 }
 
-/* suggested by Chat GPT, 8/2025 */
 #main h3 {
-    float: none;
-    clear: both;
-    width: 100%;
-    height: 41px;
-    line-height: 41px;
-    background-image: url(../image/h2_bg_longer.jpg);
-    background-repeat: no-repeat;
-    background-position: left top;
-    text-indent: 15px;
-    margin: 0 0 10px 0;
-    color: #FFFFFF;
+	width:780px;
+	line-height:150%;
+	color:#333;
+	text-align:left;
+	font-size:16px;
+	font-weight:normal;
+	margin:15px 0 15px 0;
+	border-bottom: solid 3px #0033CC;
+	font-weight:bold;
+	padding:0 0 5px 0;
 }
 
 /* suggested by Chat GPT, 8/2025 */
