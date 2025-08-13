@@ -135,7 +135,8 @@ img {
     line-height: 41px;
     color: #FFFFFF;
     background-image: url(../image/h2_bg_longer.jpg);
-    background-repeat: repeat-x;  /* or no-repeat if you don't want tiling */
+    background-repeat: no-repeat;  /* or no-repeat if you don't want tiling */
+/*    background-repeat: repeat-x; */ /* or no-repeat if you don't want tiling */
     background-size: auto 41px;   /* match original height */
     text-indent: 15px;
     text-align: left;
