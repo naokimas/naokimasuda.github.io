@@ -130,43 +130,36 @@ img {
 */
 /* Headings adapt to available width, suggested by Chat GPT, 8/2025 */
 #main h2 {
-	width: 100%;
+ display: block;
+    width: 100%;
     height: 41px;
     line-height: 41px;
     color: #FFFFFF;
     background-image: url(../image/h2_bg_longer.jpg);
-    background-repeat: no-repeat;  /* or no-repeat if you don't want tiling */
-/*    background-repeat: repeat-x; */ /* or no-repeat if you don't want tiling */
-    background-size: auto 41px;   /* match original height */
+    background-repeat: no-repeat;  /* keep as you want */
+    background-size: contain;      /* ensures no distortion */
     text-indent: 15px;
     text-align: left;
     font-size: 18px;
     font-weight: normal;
     margin: 0 0 10px 0;
+    /*    background-repeat: repeat-x; */ /* or no-repeat if you don't want tiling */
 }
 
-
+/* suggested by Chat GPT, 8/2025 */
 #main h3 {
-	width:780px;
-	line-height:150%;
-	color:#333;
-	text-align:left;
-	font-size:16px;
-	font-weight:normal;
-	margin:15px 0 15px 0;
-	border-bottom: solid 3px #0033CC;
-	font-weight:bold;
-	padding:0 0 5px 0;
+	width: auto;
+    max-width: 100%;      /* keep inside container */
+    line-height: 150%;
+    color: #333;
+    text-align: left;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 15px 0 15px 0;
+    border-bottom: solid 3px #0033CC;
+    padding: 0 0 5px 0;
 }
 
-/* Replaced by Chat GPT's suggestion just below
-#contents {
-	text-align: left;
-	width:800px;
-	height:750px;
-	overflow:auto;
-}
-*/
 /* suggested by Chat GPT, 8/2025 */
 #contents {
     width: 100%;
