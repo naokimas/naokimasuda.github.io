@@ -1,54 +1,64 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html>
+<!DOCTYPE html>
+<html lang="ja">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>研究紹介 | 増田直紀</title>
-<link href="style/style.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
-<script type="text/javascript" src="js/footerFixed.js"></script>
-<script type="text/javascript" src="js/jquery.exflexfixed.js"></script>
-<script>
-	jQuery(function($){
-		$('div.sub_menu').exFlexFixed({
-			container : '#wrap'
-		});
-	});
-</script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ネットワークの「コア」と「ペリ」 | 増田直紀</title>
+<meta name="description" content="増田直紀の研究紹介です。">
+<link rel="stylesheet" href="assets/site.css">
 </head>
+<body>
 
-<body onLoad="MM_preloadImages('image/eng_o.gif')">
-<div id="container">
-  <div id="header">
-    <div class="left">
-      <h1><a href="index_j.html"><span class="text">ネットワーク科学 増田直紀</span></a></h1>
-          </div>
+<!-- The menu is built by assets/site.js from the MENU list at the top of that
+     file, so it only has to be maintained in one place. -->
+<header class="site-header" data-lang="ja"></header>
+<noscript>
+  <div class="page">
+    <p class="card">このサイトのメニューは JavaScript で表示されます（現在オフのようです）。各ページはそのままご覧いただけます： <a href="index_j.html">ホーム</a> &middot; <a href="intro_j.html">研究紹介</a> &middot; <a href="publications_j.html">英語論文等リスト</a> &middot; <a href="publ_j.html">日本語論文等リスト</a> &middot; <a href="members_j.html">メンバー</a> &middot; <a href="access_j.html">Access</a></p>
   </div>
-  <div id="wrap">
-      <h2>研究紹介</h2>
-      <div id="contents">
+</noscript>
 
-<h3><a name="#core_periphery">ネットワークの「コア」と「ペリ」</a></h3>
+<main class="page">
+<h1 class="page-title">ネットワークの「コア」と「ペリ」</h1>
 <p>キーワード：<strong>ネットワーク</strong>，核，データ解析，アルゴリズム
-<p>コア・ペリフェリー構造とは、ネットワークがコア（核）と呼ばれるノード群と、ペリフェリー（周囲。以下「ペリ」と呼ぶ）と呼ばれるノード群に分けられる、という考え方である。コアに属するノード達は、お互いに高い枝密度で結びついている。ペリに属するノード達は、お互いに低い枝密度でしか結びついていない（そして、コアに属するノードにはそれなりの枝密度でつながっている）。コア・ペリ構造は、それを検出するアルゴリズムの提案と並行して、様々なネットワークで見つけられてきた。ただ、大抵の場合、与えられたネットワークが1つのコアと1つのペリだけから成ることを仮定していた。
+</p><p>コア・ペリフェリー構造とは、ネットワークがコア（核）と呼ばれるノード群と、ペリフェリー（周囲。以下「ペリ」と呼ぶ）と呼ばれるノード群に分けられる、という考え方である。コアに属するノード達は、お互いに高い枝密度で結びついている。ペリに属するノード達は、お互いに低い枝密度でしか結びついていない（そして、コアに属するノードにはそれなりの枝密度でつながっている）。コア・ペリ構造は、それを検出するアルゴリズムの提案と並行して、様々なネットワークで見つけられてきた。ただ、大抵の場合、与えられたネットワークが1つのコアと1つのペリだけから成ることを仮定していた。
 
-<p>我々は、与えられたネットワークに対して複数のコア・ペリ構造を検出するアルゴリズムを開発した [<a href="https://doi.org/10.1103/PhysRevE.96.052313" target="_blank">Kojaku &amp Masuda, PRE (2018)</a>]。例えば、アメリカの政治についてのブログ・ネットワークに本アルゴリズムを適用すると、2つのコア・ペリ構造が検出され、1つのコア・ペリ構造は保守党的なブログのグループ（下図で赤色の丸で示したブログ）、もう1つは自由民主党的なブログのグループ（青色）に対応していた。本アルゴリズムやその変形版を銀行間の貸し借り関係のネットワーク [<a href="http://arxiv.org/abs/1802.05139" target="_blank">Kojaku et al., J Netw Th in Finance (2018)</a>]、海運交通のネットワーク [<a href="http://arxiv.org/abs/1808.04549" target="_blank">Kojaku et al., arXiv (2018)</a>]、テキストの分類問題 [<a href="https://doi.org/10.18653/v1/S18-2030" target="_blank">Cui et al., *SEM 2018</a>] に応用した。
+</p><p>我々は、与えられたネットワークに対して複数のコア・ペリ構造を検出するアルゴリズムを開発した [<a href="https://doi.org/10.1103/PhysRevE.96.052313" rel="noopener" target="_blank">Kojaku &amp; Masuda, PRE (2018)</a>]。例えば、アメリカの政治についてのブログ・ネットワークに本アルゴリズムを適用すると、2つのコア・ペリ構造が検出され、1つのコア・ペリ構造は保守党的なブログのグループ（下図で赤色の丸で示したブログ）、もう1つは自由民主党的なブログのグループ（青色）に対応していた。本アルゴリズムやその変形版を銀行間の貸し借り関係のネットワーク [<a href="http://arxiv.org/abs/1802.05139" rel="noopener" target="_blank">Kojaku et al., J Netw Th in Finance (2018)</a>]、海運交通のネットワーク [<a href="http://arxiv.org/abs/1808.04549" rel="noopener" target="_blank">Kojaku et al., arXiv (2018)</a>]、テキストの分類問題 [<a href="https://doi.org/10.18653/v1/S18-2030" rel="noopener" target="_blank">Cui et al., *SEM 2018</a>] に応用した。
 
-    <table width="100%" border="0" cellpadding="3">
-    <tr> 
-        <td style="text-align:center;"><IMG src="image/poliblog.png" width="350"></td>
+    </p><table class="figtable">
+    <tbody><tr> 
+        <td style="text-align:center;"><img src="image/poliblog.png" width="350"/></td>
     </tr>
     <tr>
-	    <td colspan="2">図：ブログ・ネットワークのコア・ペリ構造。頂点（丸）はブログ。塗りつぶした丸は、コアに属するノード（ブログ）。中抜きの赤や青の丸は、ペリに属するノード。灰色の丸は、どちらにも属さないノード。ブログ・ネットワークのデータは <a href="https://doi.org/10.1145/1134271.1134277" target="_blank">Adamic &amp Glance (2005)</a>より。</td>
+	    <td colspan="2">図：ブログ・ネットワークのコア・ペリ構造。頂点（丸）はブログ。塗りつぶした丸は、コアに属するノード（ブログ）。中抜きの赤や青の丸は、ペリに属するノード。灰色の丸は、どちらにも属さないノード。ブログ・ネットワークのデータは <a href="https://doi.org/10.1145/1134271.1134277" rel="noopener" target="_blank">Adamic &amp; Glance (2005)</a>より。</td>
     </tr>
-    </table>
+    </tbody></table>
 
-<p>もし単に次数（ノードが持つ枝の数。友人ネットワークなら友達数）が大きいノードがコアに属して、次数が小さいノードがペリに属するだけならば、コア・ペリ構造なる複雑な概念を持ち出さずに、次数の大小だけで話が済んでしまうはずである。我々は、コアを1つ、ペリを1つだけ仮定する場合は、どんなネットワークについても次数の大小だけで話が済んでしまうことを明らかにした。次数の大小だけで話が済まずにコア・ペリ構造の解析が意味を持つためには、少なくとも3個のノード群が必要なのだ。コアとペリが1つずつだけならば、ノード群は2つなので条件を満たさない。一方、例えば、ネットワークの中にコア・ペリ構造が2つあるならば、ノード群は4つということになり、次数の大小だけでは分からないコア・ペリ構造を調べていることになる。このような事情を勘案した第2のアルゴリズムを用いると、次数は小さいコア・ノードや、次数は大きいペリ・ノードを見つけることができる [<a href="https://doi.org/10.1088/1367-2630/aab547" target="_blank">Kojaku &amp Masuda, New J Phys (2018)</a>]。
+<p>もし単に次数（ノードが持つ枝の数。友人ネットワークなら友達数）が大きいノードがコアに属して、次数が小さいノードがペリに属するだけならば、コア・ペリ構造なる複雑な概念を持ち出さずに、次数の大小だけで話が済んでしまうはずである。我々は、コアを1つ、ペリを1つだけ仮定する場合は、どんなネットワークについても次数の大小だけで話が済んでしまうことを明らかにした。次数の大小だけで話が済まずにコア・ペリ構造の解析が意味を持つためには、少なくとも3個のノード群が必要なのだ。コアとペリが1つずつだけならば、ノード群は2つなので条件を満たさない。一方、例えば、ネットワークの中にコア・ペリ構造が2つあるならば、ノード群は4つということになり、次数の大小だけでは分からないコア・ペリ構造を調べていることになる。このような事情を勘案した第2のアルゴリズムを用いると、次数は小さいコア・ノードや、次数は大きいペリ・ノードを見つけることができる [<a href="https://doi.org/10.1088/1367-2630/aab547" rel="noopener" target="_blank">Kojaku &amp; Masuda, New J Phys (2018)</a>]。
 
-      </div>
-      <br>
+      </p>
+<p><a href="intro_j.html">&larr; 研究紹介にもどる</a></p>
+
+</main>
+
+<footer class="site-footer">
+  <div class="bar">
+    <div class="footer-mail">
+      <div>連絡先</div>
+      <img src="image/mail.png" alt="e-mail" width="169" height="23">
     </div>
+    <div>
+      <a href="https://scholar.google.com/citations?user=fZDoOnMAAAAJ" target="_blank" rel="noopener">Google Scholar</a> &middot;
+      <a href="https://github.com/naokimas" target="_blank" rel="noopener">GitHub</a> &middot;
+      <a href="https://orcid.org/0000-0003-1567-801X" target="_blank" rel="noopener">ORCID</a> &middot;
+      <a href="https://www.linkedin.com/in/naoki-masuda-57852b72" target="_blank" rel="noopener">LinkedIn</a> &middot;
+      <a href="https://www.facebook.com/naoki.masuda.169" target="_blank" rel="noopener">Facebook</a> &middot; <a href="https://researchmap.jp/naokimas" target="_blank" rel="noopener">researchmap</a> &middot; <a href="http://naokimasuda.blogspot.com/" target="_blank" rel="noopener">ブログ</a>
+    </div>
+    <div class="copyright">copyright &copy; Naoki Masuda, All rights reserved.</div>
   </div>
-</div>
-<div id="footer">copyright(C) Naoki Masuda, All rights reserved.</div>
+</footer>
+
+<button class="to-top" type="button" aria-label="Back to top">&#8593;</button>
+<script src="assets/site.js"></script>
 </body>
 </html>
