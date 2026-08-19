@@ -1,58 +1,68 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Research Projects | Naoki Masuda</title>
-<link href="style/style.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
-<script type="text/javascript" src="js/footerFixed.js"></script>
-<script type="text/javascript" src="js/jquery.exflexfixed.js"></script>
-<script>
-	jQuery(function($){
-		$('div.sub_menu').exFlexFixed({
-			container : '#wrap'
-		});
-	});
-</script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Football managers as reinforcement learner | Naoki Masuda</title>
+<meta name="description" content="Short introduction to a research project of Naoki Masuda.">
+<link rel="stylesheet" href="assets/site.css">
 </head>
+<body>
 
-<body onLoad="MM_preloadImages('image/eng_o.gif')">
-<div id="container">
-  <div id="header">
-    <div class="left">
-      <h1 class="en"><a href="index.html"><span class="text">Network Science,Naoki Masuda</span></a></h1>
-          </div>
+<!-- The menu is built by assets/site.js from the MENU list at the top of that
+     file, so it only has to be maintained in one place. -->
+<header class="site-header" data-lang="en"></header>
+<noscript>
+  <div class="page">
+    <p class="card">This site builds its menu with JavaScript, which appears to be turned off. The pages themselves work fine: <a href="index.html">Home</a> &middot; <a href="research.html">Research</a> &middot; <a href="publications.html">Publications</a> &middot; <a href="members.html">Group members</a> &middot; <a href="prospective.html">Join my group</a> &middot; <a href="access.html">Access</a></p>
   </div>
-  <div id="wrap">
-    <h2>Research projects</h2>
-      <div id="contents">
+</noscript>
 
-    <h3><a name="#football_Tamura">Football managers as reinforcement learner</a></h3>
-    <p>Keywords: reinforcement learning, sports, data
-	<p>Managerial decisions should be important for the performance of the team. Using football data in Japan and Germany, we examined the following two hypotheses.
-    <ul>
+<main class="page">
+<h1 class="page-title">Football managers as reinforcement learner</h1>
+<p>Keywords: reinforcement learning, sports, data
+	</p><p>Managerial decisions should be important for the performance of the team. Using football data in Japan and Germany, we examined the following two hypotheses.
+    </p><ul>
         <li>Hypothesis 1: Managers adopt reinforcement learning in deciding on the starting formation (see the figure below) in each game.
-        <li>Hypothesis 2: Reinforcement learning results in a high performance of the team.
-    </ul>
+        </li><li>Hypothesis 2: Reinforcement learning results in a high performance of the team.
+    </li></ul>
 
-    <table width="100%" border="0" cellpadding="3">
-    <tr> 
-        <td style="text-align:center;"><IMG src="image/formation-forweb.png" width="250"></td>
+    <table class="figtable">
+    <tbody><tr> 
+        <td style="text-align:center;"><img src="image/formation-forweb.png" width="250"/></td>
     </tr>
     <tr>
 	    <td colspan="2">Fig: Schematic of the formation in football. We extracted the starting formation from such image data to be submitted to the analysis.</td>
     </tr>
-    </table>
+    </tbody></table>
 
 	<p>Reinforcement learning implies that, if you are successul you would stick to the same behaviour next time, and if you are unsuccessful you would switch to a different behaviour. In this way one expects to get a higher reward than before as the learning goes on. In the context of the present data analysis, the manager would change the starting formation in the next game if the team is defeated, and he would stick to the same formation if the team wins.
-    <p>We used the data on starting formation simply because such data were available online (free of charge). The analysis was conducted using standard statistical methods such as multivariate linear regression.
-    <p>Our data analysis supported hypothesis 1 but not 2. In other words, we found evidence that the managers' behaviour was consistent with reinforcement learning, but it did not mean a high winning rate for the team. It may not be nice to switch from one strategy to another every time the team is lost.
+    </p><p>We used the data on starting formation simply because such data were available online (free of charge). The analysis was conducted using standard statistical methods such as multivariate linear regression.
+    </p><p>Our data analysis supported hypothesis 1 but not 2. In other words, we found evidence that the managers' behaviour was consistent with reinforcement learning, but it did not mean a high winning rate for the team. It may not be nice to switch from one strategy to another every time the team is lost.
 
-      </div>
-      <br>
+      </p>
+<p><a href="research.html">&larr; Back to Research</a></p>
+
+</main>
+
+<footer class="site-footer">
+  <div class="bar">
+    <div class="footer-mail">
+      <div>Contact</div>
+      <img src="image/mail.png" alt="e-mail" width="169" height="23">
     </div>
+    <div>
+      <a href="https://scholar.google.com/citations?user=fZDoOnMAAAAJ" target="_blank" rel="noopener">Google Scholar</a> &middot;
+      <a href="https://github.com/naokimas" target="_blank" rel="noopener">GitHub</a> &middot;
+      <a href="https://orcid.org/0000-0003-1567-801X" target="_blank" rel="noopener">ORCID</a> &middot;
+      <a href="https://www.linkedin.com/in/naoki-masuda-57852b72" target="_blank" rel="noopener">LinkedIn</a> &middot;
+      <a href="https://www.facebook.com/naoki.masuda.169" target="_blank" rel="noopener">Facebook</a>
+    </div>
+    <div class="copyright">copyright &copy; Naoki Masuda, All rights reserved.</div>
   </div>
-</div>
-<div id="footer">copyright(C) Naoki Masuda, All rights reserved.</div>
+</footer>
+
+<button class="to-top" type="button" aria-label="Back to top">&#8593;</button>
+<script src="assets/site.js"></script>
 </body>
 </html>

@@ -1,54 +1,64 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Research Projects | Naoki Masuda</title>
-<link href="style/style.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
-<script type="text/javascript" src="js/footerFixed.js"></script>
-<script type="text/javascript" src="js/jquery.exflexfixed.js"></script>
-<script>
-	jQuery(function($){
-		$('div.sub_menu').exFlexFixed({
-			container : '#wrap'
-		});
-	});
-</script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gillespie algorithm | Naoki Masuda</title>
+<meta name="description" content="Short introduction to a research project of Naoki Masuda.">
+<link rel="stylesheet" href="assets/site.css">
 </head>
+<body>
 
-<body onLoad="MM_preloadImages('image/eng_o.gif')">
-<div id="container">
-  <div id="header">
-    <div class="left">
-      <h1 class="en"><a href="index.html"><span class="text">Network Science,Naoki Masuda</span></a></h1>
-          </div>
+<!-- The menu is built by assets/site.js from the MENU list at the top of that
+     file, so it only has to be maintained in one place. -->
+<header class="site-header" data-lang="en"></header>
+<noscript>
+  <div class="page">
+    <p class="card">This site builds its menu with JavaScript, which appears to be turned off. The pages themselves work fine: <a href="index.html">Home</a> &middot; <a href="research.html">Research</a> &middot; <a href="publications.html">Publications</a> &middot; <a href="members.html">Group members</a> &middot; <a href="prospective.html">Join my group</a> &middot; <a href="access.html">Access</a></p>
   </div>
-  <div id="wrap">
-    <h2>Research projects</h2>
-      <div id="contents">
+</noscript>
 
-<h3><a name="#Gillespie">Gillespie algorithm</a></h3>
+<main class="page">
+<h1 class="page-title">Gillespie algorithm</h1>
 <p>Keywords: <strong>network</strong>, time series, point process, Laplace transform
 
-<p>Social networks we form and other networks often change over time, and such networks are analysed under the umbrella term temporal networks. Many temporal networks have <q>burstiness</q>. Suppose you meet somebody and have discrete conversation events. Your conversation events would not occur uniformly at random. A chunk of events tends to occur in a burst, which occurs in an intermittent manner (Figure). In technical terms, the inter-event times obey a long-tailed distribution.
+</p><p>Social networks we form and other networks often change over time, and such networks are analysed under the umbrella term temporal networks. Many temporal networks have <q>burstiness</q>. Suppose you meet somebody and have discrete conversation events. Your conversation events would not occur uniformly at random. A chunk of events tends to occur in a burst, which occurs in an intermittent manner (Figure). In technical terms, the inter-event times obey a long-tailed distribution.
 
-    <table width="100%" border="0" cellpadding="3">
-    <tr> 
-        <td style="text-align:center;"><IMG src="image/event_seq_compare_forweb.png" width="350"></td>
+    </p><table class="figtable">
+    <tbody><tr> 
+        <td style="text-align:center;"><img src="image/event_seq_compare_forweb.png" width="350"/></td>
     </tr>
     <tr>
 	    <td colspan="2">Fig: A bursty time series. The vertical bar represents the time a conversation event happens e.g. between two particular persons.</td>
     </tr>
-    </table>
+    </tbody></table>
 
 <p>Before burstiness was known, it had been common to assume that conversation events occur as if people arrive at a sales counter sporadically and completely randomly, lacking burstiness (technically, exponential-like distribution of inter-event times). Now we know that this is an oversimplification in many cases.
-<p>The Gillespie algorithm, invented in 1970s, is a mathematical/computational technique with which one can numerically simulate systems of <q>interacting event sequences</q> (e.g. a population of humans or molecules) efficiently and without error. In the original form, this algorithm generates non-bursty event sequences. We invented a new variant of the Gillespie algorithm to be able to generate bursty event sequences. We used mathematical tools so-called the <q>Laplace transform</q> and <q>completely monotone functions</q>.
+</p><p>The Gillespie algorithm, invented in 1970s, is a mathematical/computational technique with which one can numerically simulate systems of <q>interacting event sequences</q> (e.g. a population of humans or molecules) efficiently and without error. In the original form, this algorithm generates non-bursty event sequences. We invented a new variant of the Gillespie algorithm to be able to generate bursty event sequences. We used mathematical tools so-called the <q>Laplace transform</q> and <q>completely monotone functions</q>.
 
-      </div>
-      <br>
+      </p>
+<p><a href="research.html">&larr; Back to Research</a></p>
+
+</main>
+
+<footer class="site-footer">
+  <div class="bar">
+    <div class="footer-mail">
+      <div>Contact</div>
+      <img src="image/mail.png" alt="e-mail" width="169" height="23">
     </div>
+    <div>
+      <a href="https://scholar.google.com/citations?user=fZDoOnMAAAAJ" target="_blank" rel="noopener">Google Scholar</a> &middot;
+      <a href="https://github.com/naokimas" target="_blank" rel="noopener">GitHub</a> &middot;
+      <a href="https://orcid.org/0000-0003-1567-801X" target="_blank" rel="noopener">ORCID</a> &middot;
+      <a href="https://www.linkedin.com/in/naoki-masuda-57852b72" target="_blank" rel="noopener">LinkedIn</a> &middot;
+      <a href="https://www.facebook.com/naoki.masuda.169" target="_blank" rel="noopener">Facebook</a>
+    </div>
+    <div class="copyright">copyright &copy; Naoki Masuda, All rights reserved.</div>
   </div>
-</div>
-<div id="footer">copyright(C) Naoki Masuda, All rights reserved.</div>
+</footer>
+
+<button class="to-top" type="button" aria-label="Back to top">&#8593;</button>
+<script src="assets/site.js"></script>
 </body>
 </html>
