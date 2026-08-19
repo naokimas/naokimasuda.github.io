@@ -560,3 +560,15 @@ html[lang="ja"] .jumpbar a { font-size: .95rem; }
   .brand .tag { display: none; }
   .brand { font-size: 1rem; }
 }
+
+/* ==========================================================================
+   Japanese menu has more tabs than the English one. On wide screens let the
+   nav wrap onto a second row (the header bar grows to fit) instead of forcing
+   everything onto one cramped line.
+   ========================================================================== */
+@media (min-width: 901px) {
+  html[lang="ja"] .site-header .bar { align-items: center; gap: 10px; }
+  html[lang="ja"] .brand { font-size: 1.05rem; }
+  html[lang="ja"] .menu { flex-wrap: wrap; justify-content: flex-end; row-gap: 0; }
+  html[lang="ja"] .menu > li > a { padding: 0 8px; font-size: .93rem; }
+}

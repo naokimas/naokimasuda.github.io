@@ -64,7 +64,7 @@
           ["データ等へのリンク", "intro_j.html#data"],
           ["公開セミナー（東大）の記録", "intro_j.html#seminar"]
         ]],
-        ["論文リスト", "publications_j.html", [
+        ["業績リスト", "publications_j.html", [
           ["英語論文等リスト", "publications_j.html"],
           ["日本語論文", "publ_j.html#journal_j"],
           ["日本語書籍", "publ_j.html#book_j"],
@@ -74,14 +74,11 @@
         ]],
         ["メンバー", "members_j.html"],
         ["増田研に来たい人へ", "teammasuda.html"],
-        ["授業・経歴", "teaching_j.html", [
-          ["日本の授業・修論・卒論", "teaching_j.html"],
-          ["経歴", "cv_j.html"],
-          ["研究関係情報", "tips_j.html"],
-          ["メディア・イベント", "media.html"],
-          ["ブログ", "http://naokimasuda.blogspot.com/"]
-        ]],
-        ["Access", "access_j.html"],
+        ["授業", "teaching_j.html"],
+        ["経歴", "cv_j.html"],
+        ["メディア・イベント", "media.html"],
+        ["ブログ", "http://naokimasuda.blogspot.com/"],
+        ["アクセス", "access_j.html"],
         ["English", "index.html", null, "lang"]
       ]
     }
