@@ -43,7 +43,7 @@
           ["Alumni — Bristol", "members.html#alumni-bristol"],
           ["Alumni — Tokyo", "members.html#alumni-tokyo"]
         ]],
-        ["Join my group", "openings.html"],
+        ["Join my group", "prospective.html"],
         ["CV", "cv-masuda.pdf"],
         ["Access", "access.html"],
         ["日本語", "index_j.html", null, "lang"]
