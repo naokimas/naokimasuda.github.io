@@ -1,44 +1,54 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html>
+<!DOCTYPE html>
+<html lang="ja">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>研究紹介 | 増田直紀</title>
-<link href="style/style.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
-<script type="text/javascript" src="js/footerFixed.js"></script>
-<script type="text/javascript" src="js/jquery.exflexfixed.js"></script>
-<script>
-	jQuery(function($){
-		$('div.sub_menu').exFlexFixed({
-			container : '#wrap'
-		});
-	});
-</script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>強化学習は、実験研究で見られる条件付き協力をよく説明する | 増田直紀</title>
+<meta name="description" content="増田直紀の研究紹介です。">
+<link rel="stylesheet" href="assets/site.css">
 </head>
+<body>
 
-<body onLoad="MM_preloadImages('image/eng_o.gif')">
-<div id="container">
-  <div id="header">
-    <div class="left">
-      <h1><a href="index_j.html"><span class="text">ネットワーク科学 増田直紀</span></a></h1>
-          </div>
+<!-- The menu is built by assets/site.js from the MENU list at the top of that
+     file, so it only has to be maintained in one place. -->
+<header class="site-header" data-lang="ja"></header>
+<noscript>
+  <div class="page">
+    <p class="card">このサイトのメニューは JavaScript で表示されます（現在オフのようです）。各ページはそのままご覧いただけます： <a href="index_j.html">ホーム</a> &middot; <a href="intro_j.html">研究紹介</a> &middot; <a href="publications_j.html">英語論文等リスト</a> &middot; <a href="publ_j.html">日本語論文等リスト</a> &middot; <a href="members_j.html">メンバー</a> &middot; <a href="access_j.html">Access</a></p>
   </div>
-  <div id="wrap">
-      <h2>研究紹介</h2>
-      <div id="contents">
+</noscript>
 
-    <h3><a name="#moody">強化学習は、実験研究で見られる条件付き協力をよく説明する</a></h3>
-     <p>キーワード：<strong>協力行動</strong>，強化学習，ネットワーク
-	<p>囚人のジレンマ（協力行動が一見起こりにくい）的な状況のもとで、どうやって協力的な社会が達成されるのか？進化ゲームの研究は、協力行動を可能にする様々な仕組みを明らかにしてきた。多くの論文がある。
-	<p>進化ゲームとは、ひとことで言えば「うまくやっている隣人のしていることを真似よう」という行動ルールのことである。これはもっともらしく思えるが、実は、実験室やインターネットを用いた近年の行動実験によると、進化ゲーム理論の予測はよくはずれる。例えば、進化ゲーム理論によれば、色々なネットワークの上にプレイヤーを置いてゲームを行わせると、ネットワーク構造がない場合よりも協力が起こりやすい。しかし、実験では大抵そうならない。また、実験では、隣人が前回多く協力するほど、自分は次回に多く協力し、「条件付き協力」と呼ばれる。しかし、進化ゲーム理論から条件付き協力を導出するのは難しい。さらには、実験では、隣人が前回協力した度合いのみならず、自分が前回協力したかどうかによって、あたかも気まぐれに、自分の次回の協力程度は変わる。
-	<p>本研究では、進化ゲームではなく、強化学習という異なる行動ルールによって、上記のような実験結果を説明できることを示した [<a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005034" target="_blank">Ezaki et al. PLOS Comput Biol (2016)</a>]。強化学習は、相手がうまくやっているかどうかは見ずに、自分の得た利益だけを気にする行動ルールである。得られた利益が多かったら、次回も続ける。少なかったら、次回は逆のことをしてみるのである。
+<main class="page">
+<h1 class="page-title">強化学習は、実験研究で見られる条件付き協力をよく説明する</h1>
+<p>キーワード：<strong>協力行動</strong>，強化学習，ネットワーク
+	</p><p>囚人のジレンマ（協力行動が一見起こりにくい）的な状況のもとで、どうやって協力的な社会が達成されるのか？進化ゲームの研究は、協力行動を可能にする様々な仕組みを明らかにしてきた。多くの論文がある。
+	</p><p>進化ゲームとは、ひとことで言えば「うまくやっている隣人のしていることを真似よう」という行動ルールのことである。これはもっともらしく思えるが、実は、実験室やインターネットを用いた近年の行動実験によると、進化ゲーム理論の予測はよくはずれる。例えば、進化ゲーム理論によれば、色々なネットワークの上にプレイヤーを置いてゲームを行わせると、ネットワーク構造がない場合よりも協力が起こりやすい。しかし、実験では大抵そうならない。また、実験では、隣人が前回多く協力するほど、自分は次回に多く協力し、「条件付き協力」と呼ばれる。しかし、進化ゲーム理論から条件付き協力を導出するのは難しい。さらには、実験では、隣人が前回協力した度合いのみならず、自分が前回協力したかどうかによって、あたかも気まぐれに、自分の次回の協力程度は変わる。
+	</p><p>本研究では、進化ゲームではなく、強化学習という異なる行動ルールによって、上記のような実験結果を説明できることを示した [<a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005034" rel="noopener" target="_blank">Ezaki et al. PLOS Comput Biol (2016)</a>]。強化学習は、相手がうまくやっているかどうかは見ずに、自分の得た利益だけを気にする行動ルールである。得られた利益が多かったら、次回も続ける。少なかったら、次回は逆のことをしてみるのである。
 
 
-      </div>
-      <br>
+      </p>
+<p><a href="intro_j.html">&larr; 研究紹介にもどる</a></p>
+
+</main>
+
+<footer class="site-footer">
+  <div class="bar">
+    <div class="footer-mail">
+      <div>連絡先</div>
+      <img src="image/mail.png" alt="e-mail" width="169" height="23">
     </div>
+    <div>
+      <a href="https://scholar.google.com/citations?user=fZDoOnMAAAAJ" target="_blank" rel="noopener">Google Scholar</a> &middot;
+      <a href="https://github.com/naokimas" target="_blank" rel="noopener">GitHub</a> &middot;
+      <a href="https://orcid.org/0000-0003-1567-801X" target="_blank" rel="noopener">ORCID</a> &middot;
+      <a href="https://www.linkedin.com/in/naoki-masuda-57852b72" target="_blank" rel="noopener">LinkedIn</a> &middot;
+      <a href="https://www.facebook.com/naoki.masuda.169" target="_blank" rel="noopener">Facebook</a> &middot; <a href="https://researchmap.jp/naokimas" target="_blank" rel="noopener">researchmap</a> &middot; <a href="http://naokimasuda.blogspot.com/" target="_blank" rel="noopener">ブログ</a>
+    </div>
+    <div class="copyright">copyright &copy; Naoki Masuda, All rights reserved.</div>
   </div>
-</div>
-<div id="footer">copyright(C) Naoki Masuda, All rights reserved.</div>
+</footer>
+
+<button class="to-top" type="button" aria-label="Back to top">&#8593;</button>
+<script src="assets/site.js"></script>
 </body>
 </html>

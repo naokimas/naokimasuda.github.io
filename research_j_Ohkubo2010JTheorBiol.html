@@ -1,54 +1,62 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html>
+<!DOCTYPE html>
+<html lang="ja">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>研究紹介 | 増田直紀</title>
-<link href="style/style.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
-<script type="text/javascript" src="js/footerFixed.js"></script>
-<script type="text/javascript" src="js/jquery.exflexfixed.js"></script>
-<script>
-	jQuery(function($){
-		$('div.sub_menu').exFlexFixed({
-			container : '#wrap'
-		});
-	});
-</script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>線虫の移動行動に見られるべき則 | 増田直紀</title>
+<meta name="description" content="増田直紀の研究紹介です。">
+<link rel="stylesheet" href="assets/site.css">
 </head>
+<body>
 
-<body onLoad="MM_preloadImages('image/eng_o.gif')">
-<div id="container">
-  <div id="header">
-    <div class="left">
-      <h1><a href="index_j.html"><span class="text">ネットワーク科学 増田直紀</span></a></h1>
-          </div>
+<!-- The menu is built by assets/site.js from the MENU list at the top of that
+     file, so it only has to be maintained in one place. -->
+<header class="site-header" data-lang="ja"></header>
+<noscript>
+  <div class="page">
+    <p class="card">このサイトのメニューは JavaScript で表示されます（現在オフのようです）。各ページはそのままご覧いただけます： <a href="index_j.html">ホーム</a> &middot; <a href="intro_j.html">研究紹介</a> &middot; <a href="publications_j.html">英語論文等リスト</a> &middot; <a href="publ_j.html">日本語論文等リスト</a> &middot; <a href="members_j.html">メンバー</a> &middot; <a href="access_j.html">Access</a></p>
   </div>
-  <div id="wrap">
-      <h2>研究紹介</h2>
-      <div id="contents">
+</noscript>
 
-        <h3>線虫の移動行動に見られるべき則</h3>
-        <p>キーワード：<strong>脳・神経</strong>，線虫，ランダム・ウォーク，走性，べき則，乗算ノイズ <br>
-          [<a href="http://www.sciencedirect.com/science/article/pii/S0022519310004297" target="_blank">Ohkubo, Yoshida, Iino, Masuda. J Theor Biol (2010)</a>; 数学セミナー 2010 年 12 月号にも関連記事]
-        <p>線虫は，体長 1 ミリ程度の土壌生物である．302 個の各ニューロンの役割をかなり調べられる，遺伝子操作がしやすい，より複雑な動物と遺伝子の相同性があるなどの理由から，線虫は研究材料として用いられる．
-        <p>線虫の移動行動は複雑である．具体的には，緩やかにカーブしながら進むことと，時折急激な方向転換を行うことを織り交ぜながら進み，例えば餌の濃度が高い位置へ向かって行く（図左）．後者の「急激な方向転換」については，その統計的性質などがよく調べられている．一方，前者の「緩やかにカーブしながら進む」ことについては，好きな化学物質の濃度が高い側に徐々に曲がっていく風見鶏機構の存在を除いては，よくわかっていなかった．
-        <p>そこで，「緩やかにカーブしながら進む」部分について，実験データの解析を行った．特に，線虫が曲がる速さ（図右）の統計を調べた．その結果，単位時間で曲がる大きさの分布は，べき分布であることがわかった．多くのときは曲がる度合いが小さくて直線的に進み，大きめに曲がるときが時折，しかし，それなりの頻繁で起こる，ということである．曲がる大きさは正規分布に従わないのである．べき分布は，「急激な方向転換」を線虫の軌道から除去した残りのデータについても見られる．
-        <p>このようなべき分布は，線虫が古典的なランダム・ウォークを行うと仮定すると説明できない．我々は，べき則を伴う線虫の移動行動を，乗算的なノイズを受けるランダム・ウォークによって数理モデル化した．生成された軌道は，実際の線虫の軌道と類似していた．この数理モデルでは，移動するために生成される力が，力の大きさに比例した大きさのノイズを伴う．実際の線虫にもこのような比例関係が存在する可能性が示唆される．
-        <table width="100%" border="0" cellpadding="3">
-          <tr> 
-            <td><img src="image/fig_trajectory.png" width="220" height="173"></td>
-            <td><img src="image/col_fig1B.png" width="220" height="173"></td>
+<main class="page">
+<h1 class="page-title">線虫の移動行動に見られるべき則</h1>
+<p>キーワード：<strong>脳・神経</strong>，線虫，ランダム・ウォーク，走性，べき則，乗算ノイズ <br/>
+          [<a href="http://www.sciencedirect.com/science/article/pii/S0022519310004297" rel="noopener" target="_blank">Ohkubo, Yoshida, Iino, Masuda. J Theor Biol (2010)</a>; 数学セミナー 2010 年 12 月号にも関連記事]
+        </p><p>線虫は，体長 1 ミリ程度の土壌生物である．302 個の各ニューロンの役割をかなり調べられる，遺伝子操作がしやすい，より複雑な動物と遺伝子の相同性があるなどの理由から，線虫は研究材料として用いられる．
+        </p><p>線虫の移動行動は複雑である．具体的には，緩やかにカーブしながら進むことと，時折急激な方向転換を行うことを織り交ぜながら進み，例えば餌の濃度が高い位置へ向かって行く（図左）．後者の「急激な方向転換」については，その統計的性質などがよく調べられている．一方，前者の「緩やかにカーブしながら進む」ことについては，好きな化学物質の濃度が高い側に徐々に曲がっていく風見鶏機構の存在を除いては，よくわかっていなかった．
+        </p><p>そこで，「緩やかにカーブしながら進む」部分について，実験データの解析を行った．特に，線虫が曲がる速さ（図右）の統計を調べた．その結果，単位時間で曲がる大きさの分布は，べき分布であることがわかった．多くのときは曲がる度合いが小さくて直線的に進み，大きめに曲がるときが時折，しかし，それなりの頻繁で起こる，ということである．曲がる大きさは正規分布に従わないのである．べき分布は，「急激な方向転換」を線虫の軌道から除去した残りのデータについても見られる．
+        </p><p>このようなべき分布は，線虫が古典的なランダム・ウォークを行うと仮定すると説明できない．我々は，べき則を伴う線虫の移動行動を，乗算的なノイズを受けるランダム・ウォークによって数理モデル化した．生成された軌道は，実際の線虫の軌道と類似していた．この数理モデルでは，移動するために生成される力が，力の大きさに比例した大きさのノイズを伴う．実際の線虫にもこのような比例関係が存在する可能性が示唆される．
+        </p><table class="figtable">
+          <tbody><tr> 
+            <td><img height="173" src="image/fig_trajectory.png" width="220"/></td>
+            <td><img height="173" src="image/col_fig1B.png" width="220"/></td>
           </tr>
           <tr>
             <td colspan="2">（左）線虫の移動行動の軌跡．（右）線虫が曲がる速さの定量化</td>
           </tr>
-        </table>
+        </tbody></table>
+<p><a href="intro_j.html">&larr; 研究紹介にもどる</a></p>
 
-      </div>
-      <br>
+</main>
+
+<footer class="site-footer">
+  <div class="bar">
+    <div class="footer-mail">
+      <div>連絡先</div>
+      <img src="image/mail.png" alt="e-mail" width="169" height="23">
     </div>
+    <div>
+      <a href="https://scholar.google.com/citations?user=fZDoOnMAAAAJ" target="_blank" rel="noopener">Google Scholar</a> &middot;
+      <a href="https://github.com/naokimas" target="_blank" rel="noopener">GitHub</a> &middot;
+      <a href="https://orcid.org/0000-0003-1567-801X" target="_blank" rel="noopener">ORCID</a> &middot;
+      <a href="https://www.linkedin.com/in/naoki-masuda-57852b72" target="_blank" rel="noopener">LinkedIn</a> &middot;
+      <a href="https://www.facebook.com/naoki.masuda.169" target="_blank" rel="noopener">Facebook</a> &middot; <a href="https://researchmap.jp/naokimas" target="_blank" rel="noopener">researchmap</a> &middot; <a href="http://naokimasuda.blogspot.com/" target="_blank" rel="noopener">ブログ</a>
+    </div>
+    <div class="copyright">copyright &copy; Naoki Masuda, All rights reserved.</div>
   </div>
-</div>
-<div id="footer">copyright(C) Naoki Masuda, All rights reserved.</div>
+</footer>
+
+<button class="to-top" type="button" aria-label="Back to top">&#8593;</button>
+<script src="assets/site.js"></script>
 </body>
 </html>

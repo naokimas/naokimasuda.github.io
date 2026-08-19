@@ -1,51 +1,59 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html>
+<!DOCTYPE html>
+<html lang="ja">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>研究紹介 | 増田直紀</title>
-<link href="style/style.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
-<script type="text/javascript" src="js/footerFixed.js"></script>
-<script type="text/javascript" src="js/jquery.exflexfixed.js"></script>
-<script>
-	jQuery(function($){
-		$('div.sub_menu').exFlexFixed({
-			container : '#wrap'
-		});
-	});
-</script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>アリの順位制のネットワーク | 増田直紀</title>
+<meta name="description" content="増田直紀の研究紹介です。">
+<link rel="stylesheet" href="assets/site.css">
 </head>
+<body>
 
-<body onLoad="MM_preloadImages('image/eng_o.gif')">
-<div id="container">
-  <div id="header">
-    <div class="left">
-      <h1><a href="index_j.html"><span class="text">ネットワーク科学 増田直紀</span></a></h1>
-          </div>
+<!-- The menu is built by assets/site.js from the MENU list at the top of that
+     file, so it only has to be maintained in one place. -->
+<header class="site-header" data-lang="ja"></header>
+<noscript>
+  <div class="page">
+    <p class="card">このサイトのメニューは JavaScript で表示されます（現在オフのようです）。各ページはそのままご覧いただけます： <a href="index_j.html">ホーム</a> &middot; <a href="intro_j.html">研究紹介</a> &middot; <a href="publications_j.html">英語論文等リスト</a> &middot; <a href="publ_j.html">日本語論文等リスト</a> &middot; <a href="members_j.html">メンバー</a> &middot; <a href="access_j.html">Access</a></p>
   </div>
-  <div id="wrap">
-      <h2>研究紹介</h2>
-      <div id="contents">
+</noscript>
 
-    <h3>アリの順位制のネットワーク</h3>
-	<p>キーワード：<strong>ネットワーク</strong>，階層，DAG (directed acyclic graph), 社会性昆虫 <br>
-	  [<a href="http://dx.doi.org/10.1098/rsif.2014.0599" target="_blank">Shimoji, Abe, Tsuji, Masuda. J R Soc Interface (2014)</a>]
-	<p>上位の鶏が下位の鶏をつつく例が比較的有名であるように，順位制は多くの動物で見られる．順位制には，群れやコロニー内でどの動物個体が優先的に食物や異性などの資源を得ることができるか，を調整する役割があると考えられている．本研究では，働きアリの間の順位制を、枝に向き（攻撃するアリから攻撃されるアリへの向き）がついたネットワークと見なして解析した．観測した6個のコロニーは，ほぼ完璧な階層（DAG と呼ばれるネットワーク）を成していて，枝は多くなく（= 攻撃はそれほど頻繁ではなく），ランダムなネットワークであった（下図）．各アリが何匹のアリに攻撃されるかを数えると、1匹や2匹程度というようにあまりばらつきがなかった．一方、各アリが攻撃する相手の数には、アリによって大きなばらつきがあった．意外なことに，一番多くのアリを攻撃するようなアリは、どのコロニーにおいても，階層の上の方だが一番上ではない位置にいることが分かった．
+<main class="page">
+<h1 class="page-title">アリの順位制のネットワーク</h1>
+<p>キーワード：<strong>ネットワーク</strong>，階層，DAG (directed acyclic graph), 社会性昆虫 <br/>
+	  [<a href="http://dx.doi.org/10.1098/rsif.2014.0599" rel="noopener" target="_blank">Shimoji, Abe, Tsuji, Masuda. J R Soc Interface (2014)</a>]
+	</p><p>上位の鶏が下位の鶏をつつく例が比較的有名であるように，順位制は多くの動物で見られる．順位制には，群れやコロニー内でどの動物個体が優先的に食物や異性などの資源を得ることができるか，を調整する役割があると考えられている．本研究では，働きアリの間の順位制を、枝に向き（攻撃するアリから攻撃されるアリへの向き）がついたネットワークと見なして解析した．観測した6個のコロニーは，ほぼ完璧な階層（DAG と呼ばれるネットワーク）を成していて，枝は多くなく（= 攻撃はそれほど頻繁ではなく），ランダムなネットワークであった（下図）．各アリが何匹のアリに攻撃されるかを数えると、1匹や2匹程度というようにあまりばらつきがなかった．一方、各アリが攻撃する相手の数には、アリによって大きなばらつきがあった．意外なことに，一番多くのアリを攻撃するようなアリは、どのコロニーにおいても，階層の上の方だが一番上ではない位置にいることが分かった．
 
-        <table width="100%" border="0" cellpadding="3">
-          <tr> 
-            <td style="text-align:center;"><IMG src="image/C1-forweb.png" width="250"></td>
+        </p><table class="figtable">
+          <tbody><tr> 
+            <td style="text-align:center;"><img src="image/C1-forweb.png" width="250"/></td>
 	  </tr>
 	  <tr>
 	    <td colspan="2">図：アリの順位ネットワーク．丸はアリを表す．ひとつひとつの線は実際には矢印になっていて、上のアリ個体から下の個体へと矢印が向かっている．</td>
 	  </tr>
-	</table>
+	</tbody></table>
+<p><a href="intro_j.html">&larr; 研究紹介にもどる</a></p>
 
-      </div>
-      <br>
+</main>
+
+<footer class="site-footer">
+  <div class="bar">
+    <div class="footer-mail">
+      <div>連絡先</div>
+      <img src="image/mail.png" alt="e-mail" width="169" height="23">
     </div>
+    <div>
+      <a href="https://scholar.google.com/citations?user=fZDoOnMAAAAJ" target="_blank" rel="noopener">Google Scholar</a> &middot;
+      <a href="https://github.com/naokimas" target="_blank" rel="noopener">GitHub</a> &middot;
+      <a href="https://orcid.org/0000-0003-1567-801X" target="_blank" rel="noopener">ORCID</a> &middot;
+      <a href="https://www.linkedin.com/in/naoki-masuda-57852b72" target="_blank" rel="noopener">LinkedIn</a> &middot;
+      <a href="https://www.facebook.com/naoki.masuda.169" target="_blank" rel="noopener">Facebook</a> &middot; <a href="https://researchmap.jp/naokimas" target="_blank" rel="noopener">researchmap</a> &middot; <a href="http://naokimasuda.blogspot.com/" target="_blank" rel="noopener">ブログ</a>
+    </div>
+    <div class="copyright">copyright &copy; Naoki Masuda, All rights reserved.</div>
   </div>
-</div>
-<div id="footer">copyright(C) Naoki Masuda, All rights reserved.</div>
+</footer>
+
+<button class="to-top" type="button" aria-label="Back to top">&#8593;</button>
+<script src="assets/site.js"></script>
 </body>
 </html>
