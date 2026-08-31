@@ -579,3 +579,9 @@ html[lang="ja"] .jumpbar a { font-size: .95rem; }
 .reflist > li { margin-bottom: 1.15em; }
 .reflist > li:last-child { margin-bottom: 0; }
 .reflist > li::marker { color: var(--maize); }
+
+/* Figures on content pages: left-aligned at a sensible size (not pushed right). */
+figure.fig { margin: 1.3em 0; max-width: 440px; }
+figure.fig img { width: 100%; height: auto; display: block; border: 1px solid var(--rule); border-radius: 6px; }
+figure.fig figcaption { margin-top: .55em; font-size: .9rem; line-height: 1.5; color: var(--ink-soft); }
+@media (max-width: 480px) { figure.fig { max-width: 100%; } }
