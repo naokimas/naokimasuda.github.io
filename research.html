@@ -20,7 +20,7 @@
 
 <main class="page">
 <h1 class="page-title">Research</h1>
-<div class="jumpbar"><a href="#affiliation">Overview</a><a href="#early-warning">Early warning signals</a><a href="#gene-networks">Gene networks</a><a href="#correlation-networks">Correlation networks</a><a href="#temporal-data">Temporal network data</a><a href="#temporal-theory">Temporal network theory</a><a href="#energy-landscape">Energy landscapes</a><a href="#public-health">Public health</a><a href="#network-science">Network science</a><a href="#mathematical-biology">Mathematical biology</a></div>
+<div class="jumpbar"><a href="#affiliation">Overview</a><a href="#early-warning">Early warning signals</a><a href="#gene-networks">Gene networks</a><a href="#correlation-networks">Correlation networks</a><a href="#temporal-data">Temporal network data</a><a href="#temporal-theory">Temporal network theory</a><a href="#energy-landscape">Energy landscapes</a><a href="#public-health">Public health</a><a href="#evolutionary-dynamics">Evolutionary dynamics</a><a href="#network-science">Network science</a><a href="#mathematical-biology">Mathematical biology</a></div>
 <h3 id="affiliation">Overview</h3>
 
 <p>My main research interests are <strong>network science</strong> and <strong>mathematical biology</strong>. In mathematical biology, I am mostly working on network-related topics: network science applied to biology and medicine. However, this is very often not mere applications of ready-to-use methods; the work often involves method development and validation. In network science, I am working on both non-bio things and bio-related things. I occasionally work on non-network research (evolutionary game theory unrelated to networks, science of science) but only a little. Below is a brief overview of each topic, with more recent ones coming first.
@@ -369,6 +369,71 @@ Controlling nosocomial infection based on structure of hospital social networks.
 <a href="https://doi.org/10.1016/j.jtbi.2008.07.001" rel="noopener" target="_blank"><strong>Journal of Theoretical Biology</strong>, 254, 655-666 (2008). [open access]</a><br/>
 Preprint: <a href="http://arxiv.org/abs/0803.1879" rel="noopener" target="_blank">arXiv:0803.1879</a><br/>
 <a href="http://www.slideshare.net/NaokiMasuda/uenomasuda2008jtbslide" rel="noopener" target="_blank">Download presentation slides</a></li>
+</ul>
+
+<h3 id="evolutionary-dynamics">Evolutionary dynamics on networks</h3>
+<p>How does the structure of a population shape which behaviors or traits spread and eventually take over? In evolutionary dynamics on networks, individuals sit on the nodes of a network and interact with their neighbors, and we ask questions such as how likely a new mutant or strategy is to spread to the whole population (its <em>fixation probability</em>) and how fast this happens. A central case is <strong>evolutionary games on networks</strong>, in which individuals play social-dilemma games such as the prisoner&rsquo;s dilemma game with their neighbors; here the network structure can strongly affect whether cooperation survives. We study these questions on ordinary networks and on richer structures &mdash; weighted, multilayer, temporal, and higher-order (hypergraph) networks &mdash; and consider effects such as committed &ldquo;zealots&rdquo; and feedback between individuals and their environment, for example.</p>
+<ul class="reflist">
+<li>Jnanajyoti Bhaumik, <u>Naoki Masuda</u>.<br/>
+Non-dilemmatic social dynamics promote cooperation in multilayer networks.<br/>
+Preprint: <a href="http://arxiv.org/abs/2601.00460" rel="noopener" target="_blank">arXiv:2601.00460</a><br/>
+<a href="https://github.com/jnanajyoti/Non-dilemmatic-social-dynamics-promote-cooperation-in-multilayer-network" rel="noopener" target="_blank">Python codes</a></li>
+
+<li>Aming Li, Yao Meng, Lei Zhou, <u>Naoki Masuda</u>, Long Wang.<br/>
+Temporality modulates the effect of network heterogeneity on cooperation fixation.<br/>
+<a href="https://doi.org/10.1038/s41467-026-72717-w" rel="noopener" target="_blank"><strong>Nature Communications</strong>, 17, 6238 (2026). [open access]</a><br/>
+Preprint: <a href="http://arxiv.org/abs/2309.12686" rel="noopener" target="_blank">arXiv:2309.12686</a></li>
+
+<li>Jnanajyoti Bhaumik, <u>Naoki Masuda</u>.<br/>
+Constant-selection evolutionary dynamics on weighted networks.<br/>
+<a href="https://doi.org/10.1098/rspa.2024.0223" rel="noopener" target="_blank"><strong>Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences</strong>, 480, 20240223 (2024). [open access]</a><br/>
+Preprint: <a href="http://arxiv.org/abs/2403.17208" rel="noopener" target="_blank">arXiv:2403.17208</a><br/>
+<a href="https://github.com/jnanajyoti/Constant-selection-evolutionary-dynamics-on-weighted-networks" rel="noopener" target="_blank">Python codes</a></li>
+
+<li>Katherine Betz, Feng Fu, <u>Naoki Masuda</u>.<br/>
+Evolutionary game dynamics with environmental feedback in a network with two communities.<br/>
+<a href="https://doi.org/10.1007/s11538-024-01310-3" rel="noopener" target="_blank"><strong>Bulletin of Mathematical Biology</strong>, 86, 84 (2024). [open access]</a><br/>
+Preprint: <a href="http://arxiv.org/abs/2404.17082" rel="noopener" target="_blank">arXiv:2404.17082</a></li>
+
+<li>Ruodan Liu, <u>Naoki Masuda</u>.<br/>
+Fixation dynamics on multilayer networks.<br/>
+<a href="https://doi.org/10.1137/23M1620144" rel="noopener" target="_blank"><strong>SIAM Journal on Applied Mathematics</strong>, 84, 2028-2050 (2024). [open access]</a><br/>
+Preprint: <a href="http://arxiv.org/abs/2311.16457" rel="noopener" target="_blank">arXiv:2311.16457</a></li>
+
+<li>Ruodan Liu, <u>Naoki Masuda</u>.<br/>
+Fixation dynamics on hypergraphs.<br/>
+<a href="https://doi.org/10.1371/journal.pcbi.1011494" rel="noopener" target="_blank"><strong>PLoS Computational Biology</strong>, 19, e1011494 (2023). [open access]</a><br/>
+Preprint: <a href="http://arxiv.org/abs/2301.05343" rel="noopener" target="_blank">arXiv:2301.05343</a><br/>
+<a href="https://github.com/RuodanL/fixation_probability" rel="noopener" target="_blank">Python codes to produce the numerical results in the paper</a></li>
+
+<li>Jnanajyoti Bhaumik, <u>Naoki Masuda</u>.<br/>
+Fixation probability in evolutionary dynamics on switching temporal networks.<br/>
+<a href="https://doi.org/10.1007/s00285-023-01987-5" rel="noopener" target="_blank"><strong>Journal of Mathematical Biology</strong>, 87, 64 (2023). [open access]</a><br/>
+Preprint: <a href="http://arxiv.org/abs/2304.00170" rel="noopener" target="_blank">arXiv:2304.00170</a><br/>
+<a href="https://github.com/jnanajyoti/Fixation-Probability" rel="noopener" target="_blank">Python codes</a></li>
+
+<li>Alessio Cardillo, <u>Naoki Masuda</u>.<br/>
+Critical mass effect in evolutionary games triggered by zealots.<br/>
+<a href="https://doi.org/10.1103/PhysRevResearch.2.023305" rel="noopener" target="_blank"><strong>Physical Review Research</strong>, 2, 023305 (2020). [open access]</a><br/>
+Preprint: <a href="http://arxiv.org/abs/1912.00400" rel="noopener" target="_blank">arXiv:1912.00400</a></li>
+
+<li>Akio Iwagami, <u>Naoki Masuda</u>.<br/>
+Upstream reciprocity in heterogeneous networks.<br/>
+<a href="https://doi.org/10.1016/j.jtbi.2010.05.010" rel="noopener" target="_blank"><strong>Journal of Theoretical Biology</strong>, 265, 297-305 (2010). [open access]</a><br/>
+Preprint: <a href="http://arxiv.org/abs/0905.4007" rel="noopener" target="_blank">arXiv:0905.4007</a><br/>
+Preprint: <a href="https://www.keisu.t.u-tokyo.ac.jp/data/2010/METR10-25.pdf" rel="noopener" target="_blank">METR (Mathematical Engineering Technical Reports) 2010-25, University of Tokyo</a></li>
+
+<li><u>Naoki Masuda</u>, Hisashi Ohtsuki.<br/>
+Evolutionary dynamics and fixation probabilities in directed networks.<br/>
+<a href="https://doi.org/10.1088/1367-2630/11/3/033012" rel="noopener" target="_blank"><strong>New Journal of Physics</strong>, 11, 033012 (2009). [open access]</a><br/>
+Preprint: <a href="http://arxiv.org/abs/0812.1075" rel="noopener" target="_blank">arXiv:0812.1075</a></li>
+
+<li><u>Naoki Masuda</u>.<br/>
+Participation costs dismiss the advantage of heterogeneous networks in evolution of cooperation.<br/>
+<a href="https://doi.org/10.1098/rspb.2007.0294" rel="noopener" target="_blank"><strong>Proceedings of the Royal Society B: Biological Sciences</strong>, 274, 1815-1821 (2007).</a><br/>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScswBtNEw_6mTzw97B1R2IHLhkhl-qemfYRyyyBuAsYOoqpDg/viewform?usp=sf_link" rel="noopener" target="_blank">Request the paper</a><br/>
+Preprint: <a href="http://arxiv.org/abs/physics/0702017" rel="noopener" target="_blank">arXiv:physics/0702017<br/>
+</a><a href="http://www.slideshare.net/naokimasuda169/masuda2007-procr-socbmasudaaihara2003physletta" rel="noopener" target="_blank">Download presentation slides</a></li>
 </ul>
 
 <h3 id="network-science">Research interest 1: Network science</h3>
