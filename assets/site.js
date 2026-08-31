@@ -20,12 +20,7 @@
       home: "index.html",
       items: [
         ["Home", "index.html"],
-        ["Research", "research.html", [
-          ["Overview", "research.html#affiliation"],
-          ["Network science", "research.html#network-science"],
-          ["Mathematical biology", "research.html#mathematical-biology"],
-          ["En español", "research.html#en-espanol"]
-        ]],
+        ["Research", "research.html"],
         ["Publications", "publications.html", [
           ["Preprints", "publications.html#preprints"],
           ["Journal papers", "publications.html#journal"],
