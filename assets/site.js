@@ -21,7 +21,7 @@
       items: [
         ["Home", "index.html"],
         ["Research", "research.html", [
-          ["Affiliation etc.", "research.html#affiliation"],
+          ["Overview", "research.html#affiliation"],
           ["Network science", "research.html#network-science"],
           ["Mathematical biology", "research.html#mathematical-biology"],
           ["En español", "research.html#en-espanol"]

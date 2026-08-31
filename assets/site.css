@@ -572,3 +572,10 @@ html[lang="ja"] .jumpbar a { font-size: .95rem; }
   html[lang="ja"] .menu { flex-wrap: wrap; justify-content: flex-end; row-gap: 0; }
   html[lang="ja"] .menu > li > a { padding: 0 8px; font-size: .93rem; }
 }
+
+/* Reference lists on the Research page: bulleted, with item spacing matched
+   to publications.html (tighter than the old <br><br> gaps). */
+.reflist { padding-left: 1.5em; }
+.reflist > li { margin-bottom: 1.15em; }
+.reflist > li:last-child { margin-bottom: 0; }
+.reflist > li::marker { color: var(--maize); }
