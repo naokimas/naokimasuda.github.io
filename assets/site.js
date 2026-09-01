@@ -51,14 +51,7 @@
       home: "index_j.html",
       items: [
         ["ホーム", "index_j.html"],
-        ["研究紹介", "intro_j.html", [
-          ["研究方針", "intro_j.html#network"],
-          ["関連書籍", "intro_j.html#related_books"],
-          ["文献の探し方", "intro_j.html#literaturesearch"],
-          ["卒論・修論の執筆要領", "intro_j.html#thesishow"],
-          ["データ等へのリンク", "intro_j.html#data"],
-          ["公開セミナー（東大）の記録", "intro_j.html#seminar"]
-        ]],
+        ["研究紹介", "research_j.html"],
         ["業績リスト", "publications_j.html", [
           ["英語論文等リスト", "publications_j.html"],
           ["日本語論文", "publ_j.html#journal_j"],
